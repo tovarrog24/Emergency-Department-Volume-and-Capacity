@@ -1,0 +1,757 @@
+oshpd_id,FacilityName2,CountyName,system,year,LICENSED_BED_SIZE,HospitalOwnership,UrbanRuralDesi,TEACHINGDesignation,Tot_ED_NmbVsts,EDStations,LATITUDE,LONGITUDE,PrimaryCareShortageArea,MentalHealthShortageArea,ED_Burden,Bed_Size_Rank,LAT_STD,LON_STD
+106010735,Alameda Hospital,Alameda,Alameda Health System,2022,100-149,Government,Urban,Non-Teaching,13579,12.0,37.76266,-122.253991,No,No,1131.5833333333333,3,37.7626798,-122.2541062
+106010739,Alta Bates Summit Medical Center – Alta Bates Campus,Alameda,Sutter Health,2022,300-499,Nonprofit,Urban,Non-Teaching,29760,22.0,37.85645,-122.25743,No,No,1352.7272727272727,6,37.8556279,-122.2575014
+106010776,UC San Francisco Benioff Children's Hospital Oakland,Alameda,No System,2022,150-199,Nonprofit,Urban,Teaching,35062,40.0,37.83722,-122.26747,No,No,876.55,4,37.8369379,-122.2672306
+106010846,Highland Hospital,Alameda,Alameda Health System,2022,200-299,Government,Urban,Non-Teaching,66095,53.0,37.79925,-122.23138,No,No,1247.0754716981132,5,37.7990596,-122.2325063
+106010937,Alta Bates Summit Medical Center,Alameda,Sutter Health,2022,300-499,Nonprofit,Urban,Non-Teaching,29336,30.0,37.82106,-122.26257,No,No,977.8666666666667,6,37.821175,-122.26304
+106010987,Washington Hospital – Fremont,Alameda,No System,2022,300-499,Government,Urban,Non-Teaching,43964,39.0,37.55847,-121.98006,No,No,1127.2820512820513,6,37.5572736,-121.9779535
+106014050,Stanford Health Care Tri-Valley,Alameda,No System,2022,150-199,Nonprofit,Urban,Non-Teaching,28620,17.0,37.69206,-121.88095,No,No,1683.5294117647059,4,37.69206,-121.88095
+106014132,Kaiser Foundation Hospital – Fremont,Alameda,Kaiser Foundation Hospitals,2022,100-149,Nonprofit,Urban,Non-Teaching,38960,18.0,37.55055,-121.97483,No,No,2164.4444444444443,3,37.5521617,-121.9754891
+106014233,Eden Medical Center,Alameda,Sutter Health,2022,100-149,Nonprofit,Urban,Non-Teaching,31062,22.0,37.6983769,-122.0874055,No,No,1411.909090909091,3,37.6982572,-122.0901455
+106014326,Kaiser Foundation Hospital – Oakland/Richmond,Alameda,Kaiser Foundation Hospitals,2022,300-499,Nonprofit,Urban,Non-Teaching,120088,80.0,37.82402,-122.25791,No,No,1501.1,6,37.8237432,-122.258237
+106014337,Kaiser Foundation Hospital – San Leandro,Alameda,Kaiser Foundation Hospitals,2022,200-299,Nonprofit,Urban,Non-Teaching,69343,40.0,37.70611,-122.16917,No,No,1733.575,5,37.706844,-122.1642717
+106034002,Sutter Amador Hospital,Amador,Sutter Health,2022,50-99,Nonprofit,Rural,Non-Teaching,24996,14.0,38.34743,-120.77272,Yes,No,1785.4285714285713,2,38.3504826,-120.764465
+106040802,Orchard Hospital,Butte,No System,2022,100-149,Nonprofit,Rural,Non-Teaching,10325,5.0,39.36701,-121.68955,Yes,Yes,2065.0,3,39.3675541,-121.6894693
+106040937,Oroville Hospital,Butte,No System,2022,100-149,Nonprofit,Rural,Non-Teaching,9329,14.0,39.50485,-121.5428,Yes,Yes,666.3571428571429,3,39.50485,-121.5428
+106040962,Enloe Medical Center– Esplanade,Butte,No System,2022,200-299,Nonprofit,Urban,Non-Teaching,56376,50.0,39.74226,-121.84918,No,Yes,1127.52,5,39.7425867,-121.849727
+106050932,Mark Twain Medical Center,Calaveras,Dignity Health,2022,1-49,Nonprofit,Rural,Non-Teaching,10190,8.0,38.19057,-120.67095,Yes,Yes,1273.75,1,38.1906896,-120.6701903
+106070934,Sutter Delta Medical Center,Contra Costa,Sutter Health,2022,100-149,Nonprofit,Urban,Non-Teaching,41182,30.0,37.98222,-121.8054,No,No,1372.7333333333333,3,37.9827593,-121.8029656
+106070988,John Muir Medical Center – Walnut Creek Campus,Contra Costa,John Muir Health,2022,500+,Nonprofit,Urban,Non-Teaching,47848,44.0,37.91304,-122.040781,No,No,1087.4545454545455,7,37.9128769,-122.0409498
+106070990,Kaiser Foundation Hospital – Walnut Creek,Contra Costa,Kaiser Foundation Hospitals,2022,200-299,Nonprofit,Urban,Non-Teaching,65573,52.0,37.8923,-122.05828,No,No,1261.0192307692307,5,37.8915065,-122.0580137
+106071018,John Muir Medical Center – Concord Campus,Contra Costa,John Muir Health,2022,200-299,Nonprofit,Urban,Non-Teaching,52369,32.0,37.98615,-122.03874,No,No,1636.53125,5,37.9851726,-122.0336632
+106074017,San Ramon Regional Medical Center,Contra Costa,Tenet Healthcare Corporation,2022,100-149,Investor Owned,Urban,Non-Teaching,18054,12.0,37.77549,-121.95884,No,No,1504.5,3,37.7752251,-121.958176
+106074097,Kaiser Foundation Hospital – Antioch,Contra Costa,Kaiser Foundation Hospitals,2022,150-199,Nonprofit,Urban,Non-Teaching,66644,36.0,37.951975,-121.776854,No,No,1851.2222222222222,4,37.9508418,-121.7749286
+106090793,Barton Memorial Hospital,El Dorado,No System,2022,100-149,Nonprofit,Rural,Non-Teaching,17483,12.0,38.91228,-119.99758,Yes,Yes,1456.9166666666667,3,38.9115633,-119.9965447
+106100005,Clovis Community Medical Center,Fresno,No System,2022,300-499,Nonprofit,Rural,Non-Teaching,56532,59.0,36.83745,-119.66072,Yes,Yes,958.1694915254237,6,36.8388469,-119.6611827
+106100697,Coalinga Regional Medical Center,Fresno,No System,2022,100-149,Investor Owned,Rural,Non-Teaching,8870,9.0,36.15152,-120.34035,Yes,Yes,985.5555555555555,3,36.1519675,-120.3409955
+106100717,Community Regional Medical Center – Fresno,Fresno,No System,2022,500+,Nonprofit,Urban,Teaching,84815,73.0,36.74252,-119.784071,Yes,No,1161.849315068493,7,36.7426302,-119.7847479
+106100797,Adventist Health Reedley,Fresno,Adventist Health Systems,2022,1-49,Nonprofit,Rural,Non-Teaching,38319,10.0,36.60789,-119.45145,Yes,Yes,3831.9,1,36.6081792,-119.4531164
+106100899,Saint Agnes Medical Center,Fresno,No System,2022,300-499,Nonprofit,Urban,Non-Teaching,58162,48.0,36.8370782,-119.7649963,No,Yes,1211.7083333333333,6,36.8342377,-119.763776
+106104062,Kaiser Foundation Hospital – Fresno,Fresno,Kaiser Foundation Hospitals,2022,150-199,Nonprofit,Urban,Non-Teaching,49785,21.0,36.84246,-119.7832,No,Yes,2370.714285714286,4,36.8424331,-119.780467
+106110889,Glenn Medical Center,Glenn,No System,2022,1-49,Investor Owned,Frontier,Non-Teaching,6404,4.0,39.52055,-122.20791,Yes,Yes,1601.0,1,39.5213602,-122.2084362
+106121051,Providence Redwood Memorial Hospital,Humboldt,Providence St. Joseph Health,2022,1-49,Investor Owned,Rural,Non-Teaching,10531,8.0,40.58267,-124.13549,Yes,Yes,1316.375,1,40.5823366,-124.1363749
+106121080,Providence St. Joseph Hospital – Eureka,Humboldt,Providence St. Joseph Health,2022,100-149,Investor Owned,Rural,Non-Teaching,27953,20.0,40.7832,-124.14216,Yes,Yes,1397.65,3,40.784389,-124.141634
+106130760,Pioneers Memorial Healthcare District,Imperial,No System,2022,100-149,Government,Rural,Non-Teaching,42926,16.0,32.96003,-115.55183,Yes,Yes,2682.875,3,32.96003,-115.55183
+106141273,Northern Inyo Hospital,Inyo,No System,2022,1-49,Government,Rural,Non-Teaching,8301,8.0,37.36207,-118.40756,No,No,1037.625,1,37.3619709,-118.4061853
+106141338,Southern Inyo Hospital,Inyo,No System,2022,1-49,Government,Frontier,Non-Teaching,1668,2.0,36.6084,-118.05816,Yes,No,834.0,1,36.6084,-118.05816
+106150706,Adventist Health Delano,Kern,No System,2022,150-199,Nonprofit,Urban,Non-Teaching,28475,10.0,35.76143,-119.23706,Yes,Yes,2847.5,4,35.7622854,-119.2392519
+106150737,Kern Valley Healthcare District,Kern,No System,2022,100-149,Government,Frontier,Non-Teaching,6607,8.0,35.63486,-118.40509,Yes,Yes,825.875,3,35.6352884,-118.4064635
+106150761,Mercy Hospital – Bakersfield,Kern,Dignity Health,2022,100-149,Nonprofit,Urban,Non-Teaching,62403,45.0,35.37323,-119.02715,No,Yes,1386.7333333333333,3,35.3728014,-119.0267624
+106150782,Ridgecrest Regional Hospital,Kern,No System,2022,50-99,Nonprofit,Rural,Non-Teaching,16279,12.0,35.6404,-117.66996,Yes,Yes,1356.5833333333333,2,35.6407445,-117.6711685
+106154168,Adventist Health Tehachapi Valley,Kern,Adventist Health Systems,2022,1-49,Nonprofit,Rural,Non-Teaching,21135,13.0,35.14302,-118.44924,Yes,Yes,1625.7692307692307,1,35.1476985,-118.4509007
+106164029,Adventist Health Hanford,Kings,Adventist Health Systems,2022,150-199,Nonprofit,Urban,Non-Teaching,92128,44.0,36.3256247,-119.6683912,Yes,Yes,2093.818181818182,4,36.3232171,-119.667877
+106171049,Adventist Health Clearlake,Lake,Adventist Health Systems,2022,1-49,Nonprofit,Rural,Non-Teaching,19592,8.0,38.93619,-122.6202,Yes,Yes,2449.0,1,38.9356064,-122.6202387
+106171395,Sutter Lakeside Hospital,Lake,Sutter Health,2022,1-49,Nonprofit,Rural,Non-Teaching,19410,12.0,39.10232,-122.91003,Yes,Yes,1617.5,1,39.1047366,-122.9065198
+106184008,Banner Lassen Medical Center,Lassen,No System,2022,1-49,Nonprofit,Rural,Non-Teaching,10145,8.0,40.42306,-120.64609,Yes,Yes,1268.125,1,40.4368049,-120.6280337
+106190017,Alhambra Hospital Medical Center,Los Angeles,No System,2022,100-149,Investor Owned,Urban,Non-Teaching,16020,8.0,34.08988,-118.1449,No,No,2002.5,3,34.08988,-118.1449
+106190034,Antelope Valley Hospital,Los Angeles,No System,2022,300-499,Government,Urban,Non-Teaching,107707,45.0,34.6878,-118.157981,No,Yes,2393.488888888889,6,34.6882482,-118.1591527
+106190053,St. Mary Medical Center – Long Beach,Los Angeles,Dignity Health,2022,300-499,Nonprofit,Urban,Non-Teaching,37582,26.0,33.7802376,-118.1866412,No,No,1445.4615384615386,6,33.7805577,-118.1862725
+106190110,Southern California Hospital at Culver City,Los Angeles,Alta Hospitals System,2022,300-499,Investor Owned,Urban,Non-Teaching,12830,17.0,34.0231953,-118.3969429,No,No,754.7058823529412,6,34.0232001,-118.3969128
+106190125,California Hospital Medical Center – Los Angeles,Los Angeles,Dignity Health,2022,300-499,Nonprofit,Urban,Non-Teaching,57917,35.0,34.03721,-118.26551,No,No,1654.7714285714285,6,34.0373967,-118.2657271
+106190148,Centinela Hospital Medical Center,Los Angeles,Prime Healthcare Services,2022,300-499,Investor Owned,Urban,Non-Teaching,35849,50.0,33.94917,-118.34788,Yes,No,716.98,6,33.94917,-118.34788
+106190170,Children's Hospital of Los Angeles,Los Angeles,No System,2022,300-499,Nonprofit,Urban,Teaching,68844,46.0,34.0978692,-118.2909547,Yes,No,1496.608695652174,6,34.0981547,-118.2907791
+106190197,Community Hospital of Huntington Park,Los Angeles,Avanti Hospitals,2022,50-99,Investor Owned,Urban,Non-Teaching,31164,14.0,33.98929,-118.22466,No,Yes,2226.0,2,33.9892161,-118.2245406
+106190198,Los Angeles Community Hospital,Los Angeles,Alta Hospitals System,2022,100-149,Investor Owned,Urban,Non-Teaching,3857,4.0,34.01897,-118.1875,Yes,Yes,964.25,3,34.0193498,-118.1865467
+106190200,San Gabriel Valley Medical Center,Los Angeles,"AHMC Healthcare, Inc.",2022,200-299,Investor Owned,Urban,Non-Teaching,21304,12.0,34.1024,-118.10503,No,No,1775.3333333333333,5,34.100917,-118.1055926
+106190240,Lakewood Regional Medical Center,Los Angeles,Tenet Healthcare Corporation,2022,150-199,Investor Owned,Urban,Non-Teaching,34069,14.0,33.859731,-118.1492012,No,No,2433.5,4,33.8596883,-118.1482913
+106190243,PIH Health Hospital – Downey,Los Angeles,No System,2022,150-199,Nonprofit,Urban,Non-Teaching,48690,26.0,33.93515,-118.13196,No,No,1872.6923076923076,4,33.9341503,-118.1317434
+106190256,East Los Angeles Doctors Hospital,Los Angeles,Avanti Hospitals,2022,100-149,Investor Owned,Urban,Non-Teaching,10400,8.0,34.02383,-118.18377,Yes,Yes,1300.0,3,34.02383,-118.18377
+106190280,Encino Hospital Medical Center,Los Angeles,Prime Healthcare Services,2022,100-149,Investor Owned,Urban,Non-Teaching,6940,9.0,34.15686,-118.48662,No,No,771.1111111111111,3,34.1574278,-118.4870017
+106190315,Garfield Medical Center,Los Angeles,"AHMC Healthcare, Inc.",2022,200-299,Investor Owned,Urban,Non-Teaching,15968,21.0,34.06826,-118.12302,No,No,760.3809523809524,5,34.0680808,-118.1231228
+106190323,Adventist Health Glendale,Los Angeles,Adventist Health Systems,2022,500+,Nonprofit,Urban,Non-Teaching,37767,39.0,34.14951,-118.23109,No,No,968.3846153846154,7,34.1507443,-118.2291341
+106190385,Providence Holy Cross Medical Center,Los Angeles,Providence St. Joseph Health,2022,300-499,Nonprofit,Urban,Non-Teaching,82929,32.0,34.2791,-118.45951,No,No,2591.53125,6,34.279782,-118.4599806
+106190422,Torrance Memorial Medical Center,Los Angeles,Cedars-Sinai Health System,2022,500+,Nonprofit,Urban,Non-Teaching,71601,29.0,33.8119157,-118.3434945,Yes,No,2469.0,7,33.8134694,-118.3441879
+106190429,Kaiser Foundation Hospital – Los Angeles,Los Angeles,Kaiser Foundation Hospitals,2022,300-499,Nonprofit,Urban,Teaching,55882,57.0,34.09875,-118.295371,Yes,No,980.3859649122807,6,34.0989348,-118.2940915
+106190431,Kaiser Foundation Hospital – South Bay,Los Angeles,Kaiser Foundation Hospitals,2022,200-299,Nonprofit,Urban,Non-Teaching,59992,52.0,33.78926,-118.29373,Yes,No,1153.6923076923076,5,33.7899325,-118.2947645
+106190432,Kaiser Foundation Hospital – Panorama City,Los Angeles,Kaiser Foundation Hospitals,2022,200-299,Nonprofit,Urban,Non-Teaching,62888,41.0,34.2198,-118.43103,No,No,1533.8536585365853,5,34.218819,-118.430039
+106190434,Kaiser Foundation Hospital – West LA,Los Angeles,Kaiser Foundation Hospitals,2022,200-299,Nonprofit,Urban,Non-Teaching,80860,53.0,34.03793,-118.37568,No,No,1525.6603773584907,5,34.0386088,-118.3743452
+106190470,Providence Little Company of Mary Medical Center – Torrance,Los Angeles,Providence St. Joseph Health,2022,300-499,Nonprofit,Urban,Non-Teaching,40497,29.0,33.83891,-118.356771,No,No,1396.448275862069,6,33.8384678,-118.3572436
+106190500,Cedars – Sinai Marina Del Rey Hospital,Los Angeles,Cedars-Sinai Health System,2022,100-149,Nonprofit,Urban,Non-Teaching,32685,18.0,33.98125,-118.43971,No,No,1815.8333333333333,3,33.9821449,-118.4392262
+106190517,Providence Cedars – Sinai Tarzana Medical Center,Los Angeles,Providence St. Joseph Health,2022,200-299,Investor Owned,Urban,Non-Teaching,40962,15.0,34.17067,-118.532001,No,No,2730.8,5,34.17067,-118.532001
+106190521,Memorial Hospital of Gardena,Los Angeles,Avanti Hospitals,2022,150-199,Investor Owned,Urban,Non-Teaching,29497,10.0,33.89246,-118.29493,Yes,No,2949.7,4,33.8929929,-118.2950049
+106190525,MemorialCare Long Beach Medical Center,Los Angeles,MemorialCare,2022,300-499,Nonprofit,Urban,Teaching,72326,64.0,33.80801,-118.1852,No,No,1130.09375,6,33.80801,-118.1852
+106190529,USC Arcadia Hospital,Los Angeles,No System,2022,300-499,Nonprofit,Urban,Non-Teaching,35962,26.0,34.13603,-118.03879,No,No,1383.1538461538462,6,34.1351456,-118.0415283
+106190547,Monterey Park Hospital,Los Angeles,"AHMC Healthcare, Inc.",2022,100-149,Investor Owned,Urban,Non-Teaching,16386,6.0,34.05308,-118.13665,No,No,2731.0,3,34.0495478,-118.1383262
+106190555,Cedars – Sinai Medical Center,Los Angeles,Cedars-Sinai Health System,2022,500+,Nonprofit,Urban,Teaching,54587,60.0,34.07681,-118.38061,No,No,909.7833333333333,7,34.07681,-118.38061
+106190568,Northridge Hospital Medical Center,Los Angeles,Dignity Health,2022,300-499,Nonprofit,Urban,Non-Teaching,47234,37.0,34.22075,-118.53186,No,No,1276.5945945945946,6,34.22075,-118.53186
+106190570,Norwalk Community Hospital,Los Angeles,Alta Hospitals System,2022,50-99,Investor Owned,Urban,Non-Teaching,5026,4.0,33.91108,-118.0644,No,No,1256.5,2,33.9107134,-118.0641183
+106190587,College Medical Center,Los Angeles,No System,2022,100-149,Investor Owned,Urban,Non-Teaching,6654,7.0,33.80759,-118.19355,No,No,950.5714285714286,3,33.8069502,-118.1928532
+106190630,Pomona Valley Hospital Medical Center,Los Angeles,No System,2022,300-499,Nonprofit,Urban,Non-Teaching,78066,72.0,34.07709,-117.750621,No,No,1084.25,6,34.0768776,-117.7516647
+106190631,PIH Health Hospital – Whittier,Los Angeles,No System,2022,500+,Nonprofit,Urban,Non-Teaching,58298,61.0,33.9697943,-118.049255,No,No,955.7049180327868,7,33.9690304,-118.0490717
+106190673,San Dimas Community Hospital,Los Angeles,Prime Healthcare Services,2022,100-149,Investor Owned,Urban,Non-Teaching,12256,8.0,34.099076,-117.834328,No,No,1532.0,3,34.097533,-117.8345314
+106190680,Providence Little Company of Mary Medical Center – San Pedro,Los Angeles,Providence St. Joseph Health,2022,200-299,Nonprofit,Urban,Non-Teaching,33407,16.0,33.737939,-118.303893,No,No,2087.9375,5,33.7382583,-118.305098
+106190687,Santa Monica – UCLA Medical Center and Orthopaedic Hospital,Los Angeles,University of California,2022,200-299,Government,Urban,Non-Teaching,33209,21.0,34.027539,-118.486123,No,No,1581.3809523809523,5,34.027539,-118.486123
+106190696,Pacifica Hospital of the Valley,Los Angeles,No System,2022,200-299,Investor Owned,Urban,Non-Teaching,6908,7.0,34.24088,-118.39555,Yes,No,986.8571428571429,5,34.2405259,-118.3960912
+106190708,Sherman Oaks Hospital,Los Angeles,Prime Healthcare Services,2022,150-199,Nonprofit,Urban,Non-Teaching,18208,12.0,34.15995,-118.4488,No,No,1517.3333333333333,4,34.160328,-118.449161
+106190754,St. Francis Medical Center,Los Angeles,Verity Health System,2022,300-499,Investor Owned,Urban,Non-Teaching,48363,42.0,33.93085,-118.20415,Yes,Yes,1151.5,6,33.930445,-118.2034141
+106190756,Providence Saint John's Health Center,Los Angeles,Providence St. Joseph Health,2022,200-299,Nonprofit,Urban,Non-Teaching,24761,27.0,34.029804,-118.478668,No,No,917.074074074074,5,34.0307739,-118.4796445
+106190758,Providence Saint Joseph Medical Center,Los Angeles,Providence St. Joseph Health,2022,300-499,Nonprofit,Urban,Non-Teaching,50489,48.0,34.15486,-118.32655,No,No,1051.8541666666667,6,34.1572533,-118.3292851
+106190766,Coast Plaza Hospital,Los Angeles,Avanti Hospitals,2022,100-149,Investor Owned,Urban,Non-Teaching,9366,8.0,33.91255,-118.09915,No,No,1170.75,3,33.9127726,-118.0988257
+106190812,Valley Presbyterian Hospital,Los Angeles,No System,2022,300-499,Nonprofit,Urban,Non-Teaching,44727,30.0,34.19396,-118.4632,No,No,1490.9,6,34.1943415,-118.4627736
+106190818,USC Verdugo Hills Hospital,Los Angeles,University of Southern California,2022,150-199,Nonprofit,Urban,Non-Teaching,22041,13.0,34.20557,-118.2152,No,No,1695.4615384615386,4,34.20557,-118.2152
+106190859,West Hills Hospital and Medical Center,Los Angeles,HCA Healthcare Corporation,2022,200-299,Investor Owned,Urban,Non-Teaching,46662,30.0,34.20337,-118.62939,No,No,1555.4,5,34.2030563,-118.6298005
+106190878,Adventist Health White Memorial,Los Angeles,Adventist Health Systems,2022,300-499,Nonprofit,Urban,Teaching,52148,28.0,34.05085,-118.21691,No,No,1862.4285714285713,6,34.0492967,-118.2171632
+106190883,Whittier Hospital Medical Center,Los Angeles,"AHMC Healthcare, Inc.",2022,150-199,Investor Owned,Urban,Non-Teaching,22499,12.0,33.95379,-118.00303,No,No,1874.9166666666667,4,33.9500168,-118.0034545
+106190949,Henry Mayo Newhall Hospital,Los Angeles,No System,2022,300-499,Nonprofit,Urban,Non-Teaching,54067,30.0,34.39545,-118.55476,No,No,1802.2333333333333,6,34.3984849,-118.5532663
+106191227,Los Angeles County/Harbor – UCLA Medical Center,Los Angeles,County of Los Angeles,2022,300-499,Government,Urban,Teaching,77616,73.0,33.83155,-118.29353,Yes,No,1063.2328767123288,6,33.8302832,-118.2919779
+106191228,Los Angeles County+USC Medical Center,Los Angeles,County of Los Angeles,2022,500+,Government,Urban,Teaching,104935,106.0,34.05982,-118.21031,No,No,989.9528301886793,7,34.0576577,-118.2075805
+106191230,"Martin Luther King, Jr. Community Hospital",Los Angeles,No System,2022,100-149,Nonprofit,Urban,Teaching,99493,29.0,33.92453,-118.2435,Yes,Yes,3430.793103448276,3,33.9231731,-118.2413702
+106191231,Los Angeles County Olive View – UCLA Medical Center,Los Angeles,County of Los Angeles,2022,300-499,Government,Urban,Teaching,47977,51.0,34.32418,-118.45255,No,No,940.7254901960785,6,34.3258634,-118.4457148
+106191450,Kaiser Foundation Hospital – Woodland Hills,Los Angeles,Kaiser Foundation Hospitals,2022,200-299,Nonprofit,Urban,Non-Teaching,40713,36.0,34.17198,-118.58829,No,No,1130.9166666666667,5,34.1734332,-118.590208
+106196035,Kaiser Foundation Hospital – Baldwin Park,Los Angeles,Kaiser Foundation Hospitals,2022,200-299,Nonprofit,Urban,Non-Teaching,70040,30.0,34.06348,-117.986,Yes,No,2334.6666666666665,5,34.0656148,-117.9855472
+106196403,Kaiser Foundation Hospital – Downey,Los Angeles,Kaiser Foundation Hospitals,2022,300-499,Nonprofit,Urban,Non-Teaching,91278,80.0,33.9171234,-118.1290216,No,No,1140.975,6,33.9194557,-118.129002
+106196405,Palmdale Regional Medical Center,Los Angeles,"Universal Health Services, Inc.",2022,150-199,Investor Owned,Urban,Non-Teaching,62297,35.0,34.5843754,-118.1443461,Yes,Yes,1779.9142857142858,4,34.5828766,-118.1448173
+106204019,Valley Children's Hospital,Madera,No System,2022,300-499,Nonprofit,Rural,Non-Teaching,77730,38.0,36.88439,-119.80042,Yes,Yes,2045.5263157894738,6,36.8840366,-119.8003218
+106210992,Kaiser Foundation Hospital – San Rafael,Marin,Kaiser Foundation Hospitals,2022,100-149,Nonprofit,Urban,Non-Teaching,28282,21.0,38.0041,-122.55376,No,No,1346.7619047619048,3,38.0047045,-122.5546812
+106211006,MarinHealth Medical Center,Marin,No System,2022,300-499,Nonprofit,Urban,Non-Teaching,29682,31.0,37.94651,-122.53715,No,No,957.483870967742,6,37.9466692,-122.5358494
+106214034,Novato Community Hospital,Marin,Sutter Health,2022,1-49,Nonprofit,Urban,Non-Teaching,14709,9.0,38.09827,-122.55974,No,No,1634.3333333333333,1,38.0987422,-122.5606439
+106220733,John C Fremont Healthcare District,Mariposa,No System,2022,1-49,Government,Rural,Non-Teaching,6498,4.0,37.50045,-119.97698,Yes,Yes,1624.5,1,37.5001808,-119.9774497
+106231013,Adventist Health Mendocino Coast,Mendocino,No System,2022,1-49,Nonprofit,Rural,Non-Teaching,8963,6.0,39.4326,-123.80068,Yes,Yes,1493.8333333333333,1,39.4313778,-123.800388
+106231396,Adventist Health Ukiah Valley,Mendocino,Adventist Health Systems,2022,50-99,Nonprofit,Rural,Non-Teaching,29738,19.0,39.15216,-123.202741,Yes,Yes,1565.157894736842,2,39.1530652,-123.2028906
+106234038,Adventist Health Howard Memorial,Mendocino,Adventist Health Systems,2022,1-49,Nonprofit,Rural,Non-Teaching,14061,9.0,39.39927,-123.35486,Yes,Yes,1562.3333333333333,1,39.3897448,-123.3387068
+106240924,Memorial Hospital Los Banos,Merced,Sutter Health,2022,1-49,Nonprofit,Rural,Non-Teaching,26483,10.0,37.06273,-120.86147,Yes,Yes,2648.3,1,37.0640913,-120.8592853
+106240942,Mercy Medical Center – Merced,Merced,Dignity Health,2022,150-199,Nonprofit,Urban,Non-Teaching,57645,26.0,37.3402309,-120.4651815,Yes,Yes,2217.1153846153848,4,37.3400786,-120.4672896
+106250955,Surprise Valley Community Hospital,Modoc,No System,2022,1-49,Government,Frontier,Non-Teaching,511,1.0,41.53221,-120.17187,Yes,Yes,511.0,1,41.53221,-120.17187
+106270744,Community Hospital of the Monterey Peninsula,Monterey,No System,2022,200-299,Nonprofit,Urban,Non-Teaching,42759,31.0,36.59827,-121.92488,No,No,1379.3225806451612,5,36.5785609,-121.9134061
+106270777,George L. Mee Memorial Hospital,Monterey,No System,2022,50-99,Nonprofit,Rural,Non-Teaching,15447,6.0,36.2071,-121.1325,No,Yes,2574.5,2,36.2060986,-121.1328496
+106270875,Salinas Valley Health Medical Center,Monterey,No System,2022,200-299,Government,Urban,Non-Teaching,54157,16.0,36.65909,-121.646291,Yes,Yes,3384.8125,5,36.6594918,-121.6456896
+106274043,Natividad Medical Center,Monterey,No System,2022,150-199,Government,Urban,Non-Teaching,49779,19.0,36.69686,-121.6297,Yes,Yes,2619.9473684210525,4,36.6966688,-121.6330887
+106281047,Providence Queen of the Valley Medical Center,Napa,Providence St. Joseph Health,2022,150-199,Investor Owned,Urban,Non-Teaching,24941,18.0,38.32363,-122.296,No,No,1385.611111111111,4,38.324482,-122.2971094
+106281078,Adventist Health St. Helena,Napa,Adventist Health Systems,2022,100-149,Nonprofit,Rural,Non-Teaching,6503,8.0,38.53937349,-122.47300302,No,No,812.875,3,38.5425498,-122.4748281
+106291053,Tahoe Forest Hospital,Nevada,No System,2022,50-99,Government,Rural,Non-Teaching,13700,15.0,39.324536,-120.201516,Yes,Yes,913.3333333333334,2,39.324536,-120.201516
+106300032,Children's Hospital of Orange County,Orange,No System,2022,300-499,Nonprofit,Urban,Non-Teaching,100831,35.0,33.7807511,-117.8654488,No,No,2880.885714285714,6,33.7809877,-117.8657581
+106300225,MemorialCare Orange Coast Medical Center,Orange,MemorialCare,2022,200-299,Nonprofit,Urban,Non-Teaching,29010,26.0,33.70162,-117.95524,No,No,1115.7692307692307,5,33.70162,-117.95524
+106301098,AHMC Anaheim Regional Medical Center,Orange,"AHMC Healthcare, Inc.",2022,200-299,Investor Owned,Urban,Teaching,23505,30.0,33.84725,-117.93248,No,Yes,783.5,5,33.84725,-117.93248
+106301140,Chapman Global Medical Center,Orange,"KPC Healthcare, Inc.",2022,100-149,Investor Owned,Urban,Non-Teaching,5063,8.0,33.78785,-117.82586,No,No,632.875,3,33.78785,-117.82586
+106301188,Anaheim Global Medical Center,Orange,"KPC Healthcare, Inc.",2022,150-199,Investor Owned,Urban,Non-Teaching,12153,11.0,33.8209,-117.90921,No,Yes,1104.8181818181818,4,33.8209,-117.90921
+106301205,Hoag Memorial Hospital Presbyterian,Orange,Providence St. Joseph Health,2022,300-499,Nonprofit,Urban,Non-Teaching,102917,88.0,33.62526,-117.92949,No,No,1169.5113636363637,6,33.6247365,-117.9297422
+106301209,Huntington Beach Hospital,Orange,Prime Healthcare Services,2022,100-149,Investor Owned,Urban,Non-Teaching,12317,12.0,33.70442,-117.98895,No,No,1026.4166666666667,3,33.7037638,-117.9864477
+106301234,La Palma Intercommunity Hospital,Orange,Prime Healthcare Services,2022,100-149,Investor Owned,Urban,Non-Teaching,12636,10.0,33.84755,-118.0373,No,No,1263.6,3,33.847375,-118.0381861
+106301248,Los Alamitos Medical Center,Orange,Tenet Healthcare Corporation,2022,150-199,Investor Owned,Urban,Non-Teaching,26727,23.0,33.80327,-118.0674,No,No,1162.0434782608695,4,33.8042516,-118.0675424
+106301258,South Coast Global Medical Center,Orange,"KPC Healthcare, Inc.",2022,150-199,Investor Owned,Urban,Non-Teaching,11411,10.0,33.71112,-117.88539,Yes,No,1141.1,4,33.71112,-117.88539
+106301262,Providence Mission Hospital,Orange,Providence St. Joseph Health,2022,300-499,Nonprofit,Urban,Non-Teaching,35655,46.0,33.56279,-117.66768,No,No,775.1086956521739,6,33.56279,-117.66768
+106301279,UC Irvine Medical Center,Orange,University of California,2022,300-499,Government,Urban,Teaching,42673,44.0,33.7879885,-117.8901339,Yes,No,969.8409090909091,6,33.7871265,-117.8883391
+106301283,Garden Grove Hospital and Medical Center,Orange,Prime Healthcare Services,2022,150-199,Investor Owned,Urban,Non-Teaching,19807,12.0,33.7745089,-117.9130315,Yes,No,1650.5833333333333,4,33.7750066,-117.9129079
+106301317,MemorialCare Saddleback Medical Center,Orange,MemorialCare,2022,200-299,Nonprofit,Urban,Non-Teaching,27453,31.0,33.60802,-117.70825,No,No,885.5806451612904,5,33.60802,-117.70825
+106301337,Providence Mission Hospital – Laguna Beach,Orange,Providence St. Joseph Health,2022,150-199,Nonprofit,Urban,Non-Teaching,14981,20.0,33.4997391,-117.7422502,No,No,749.05,4,33.5002569,-117.7419417
+106301342,Providence St. Jude Medical Center,Orange,Providence St. Joseph Health,2022,300-499,Nonprofit,Urban,Non-Teaching,54818,36.0,33.89349,-117.92851,No,No,1522.7222222222222,6,33.8943501,-117.92786
+106301357,Foothill Regional Medical Center,Orange,Alta Hospitals System,2022,150-199,Investor Owned,Urban,Non-Teaching,4326,8.0,33.73119,-117.82903,No,No,540.75,4,33.7301168,-117.8284869
+106301379,West Anaheim Medical Center,Orange,Prime Healthcare Services,2022,200-299,Investor Owned,Urban,Non-Teaching,25258,24.0,33.82482,-117.99492,Yes,No,1052.4166666666667,5,33.8253585,-117.9948797
+106301566,Orange County Global Medical Center,Orange,"KPC Healthcare, Inc.",2022,200-299,Investor Owned,Urban,Non-Teaching,18818,19.0,33.75361,-117.83398,No,No,990.421052631579,5,33.75361,-117.83398
+106304409,Kaiser Foundation Hospital – Orange County – Anaheim,Orange,Kaiser Foundation Hospitals,2022,200-299,Nonprofit,Urban,Non-Teaching,112366,72.0,33.85442,-117.84399,No,No,1560.638888888889,5,33.8520187,-117.8441075
+106310791,Sutter Auburn Faith Hospital,Placer,Sutter Health,2022,50-99,Nonprofit,Urban,Non-Teaching,26503,14.0,38.94432,-121.09943,No,Yes,1893.0714285714287,2,38.9452952,-121.1006825
+106311000,Sutter Roseville Medical Center,Placer,Sutter Health,2022,300-499,Nonprofit,Urban,Non-Teaching,74403,69.0,38.76515,-121.24922,No,No,1078.304347826087,6,38.76515,-121.24922
+106314024,Kaiser Foundation Hospital – Roseville,Placer,Kaiser Foundation Hospitals,2022,300-499,Nonprofit,Urban,Non-Teaching,125419,61.0,38.74636,-121.25107,No,No,2056.0491803278687,6,38.7458732,-121.2486483
+106320859,Eastern Plumas Hospital – Portola Campus,Plumas,No System,2022,1-49,Government,Frontier,Non-Teaching,3461,3.0,39.80517,-120.462591,Yes,Yes,1153.6666666666667,1,39.805736,-120.462946
+106321016,Seneca District Hospital,Plumas,No System,2022,1-49,Government,Frontier,Non-Teaching,2710,2.0,40.30547,-121.23396,Yes,Yes,1355.0,1,40.3059655,-121.2340758
+106331152,Corona Regional Medical Center – Main,Riverside,"Universal Health Services, Inc.",2022,150-199,Investor Owned,Urban,Non-Teaching,47050,30.0,33.8733354,-117.5668015,No,Yes,1568.3333333333333,4,33.872931,-117.5683132
+106331164,Desert Regional Medical Center,Riverside,Tenet Healthcare Corporation,2022,300-499,Investor Owned,Urban,Non-Teaching,54944,29.0,33.83932,-116.54549,No,Yes,1894.6206896551723,6,33.8386098,-116.5431987
+106331194,Hemet Global Medical Center,Riverside,"KPC Healthcare, Inc.",2022,300-499,Investor Owned,Urban,Non-Teaching,39022,29.0,33.75113,-116.95958,Yes,Yes,1345.5862068965516,6,33.7503708,-116.9601303
+106331216,John F. Kennedy Memorial Hospital,Riverside,Tenet Healthcare Corporation,2022,100-149,Investor Owned,Urban,Non-Teaching,48677,12.0,33.70677,-116.23391,No,Yes,4056.4166666666665,3,33.70677,-116.23391
+106331288,Palo Verde Hospital,Riverside,No System,2022,1-49,Government,Rural,Non-Teaching,8076,7.0,33.61315,-114.5956,Yes,Yes,1153.7142857142858,1,33.61315,-114.5956
+106331293,Doctors Hospital of Riverside,Riverside,No System,2022,150-199,Investor Owned,Urban,Non-Teaching,49275,41.0,33.92573,-117.43996,No,Yes,1201.8292682926829,4,33.9268483,-117.439062
+106331326,San Gorgonio Memorial Hospital,Riverside,No System,2022,50-99,Government,Urban,Non-Teaching,38597,28.0,33.9317494,-116.9459031,No,Yes,1378.4642857142858,2,33.9321189,-116.9454756
+106334018,Menifee Global Medical Center,Riverside,"KPC Healthcare, Inc.",2022,50-99,Investor Owned,Urban,Non-Teaching,15525,12.0,33.72146,-117.15691,Yes,No,1293.75,2,33.7189951,-117.1681517
+106334025,Kaiser Foundation Hospital – Riverside,Riverside,Kaiser Foundation Hospitals,2022,200-299,Nonprofit,Urban,Non-Teaching,54533,41.0,33.9063,-117.47082,No,Yes,1330.0731707317073,5,33.9049289,-117.4692142
+106334048,Kaiser Foundation Hospital – Moreno Valley,Riverside,Kaiser Foundation Hospitals,2022,50-99,Nonprofit,Urban,Non-Teaching,50769,26.0,33.89553,-117.18677,No,Yes,1952.6538461538462,2,33.8967156,-117.1862588
+106334068,Southwest Healthcare System – Murrieta,Riverside,"Universal Health Services, Inc.",2022,100-149,Investor Owned,Urban,Non-Teaching,94786,53.0,33.55788,-117.18488,No,Yes,1788.4150943396226,3,33.5590999,-117.1839646
+106334564,Temecula Valley Hospital,Riverside,"Universal Health Services, Inc.",2022,100-149,Investor Owned,Urban,Non-Teaching,35415,21.0,33.4795943,-117.1048018,No,No,1686.4285714285713,3,33.480114,-117.1068419
+106334589,Loma Linda University Medical Center – Murrieta,Riverside,Loma Linda University,2022,100-149,Nonprofit,Urban,Non-Teaching,47789,80.0,33.6122263,-117.1624483,No,Yes,597.3625,3,33.6147303,-117.1698557
+106340913,Kaiser Foundation Hospital – Sacramento,Sacramento,Kaiser Foundation Hospitals,2022,200-299,Nonprofit,Urban,Non-Teaching,100947,59.0,38.60197,-121.39232,No,No,1710.9661016949153,5,38.6019048,-121.3924641
+106341006,UC Davis Medical Center,Sacramento,University of California,2022,500+,Government,Urban,Teaching,65202,66.0,38.55438,-121.45738,No,No,987.9090909090909,7,38.5544352,-121.4554222
+106341051,Sutter Medical Center – Sacramento,Sacramento,Sutter Health,2022,500+,Nonprofit,Urban,Non-Teaching,85084,50.0,38.57045,-121.47028,No,No,1701.68,7,38.5709021,-121.4694505
+106342344,Kaiser Foundation Hospital – South Sacramento,Sacramento,Kaiser Foundation Hospitals,2022,200-299,Nonprofit,Urban,Non-Teaching,109964,53.0,38.47144,-121.42409,No,No,2074.7924528301887,5,38.470327,-121.423072
+106350784,Hazel Hawkins Memorial Hospital,San Benito,No System,2022,50-99,Government,Rural,Non-Teaching,21491,18.0,36.835,-121.38609,Yes,No,1193.9444444444443,2,36.8338985,-121.3861055
+106361110,Bear Valley Community Hospital,San Bernardino,No System,2022,1-49,Government,Rural,Non-Teaching,11640,7.0,34.24728,-116.88988,Yes,Yes,1662.857142857143,1,34.2464896,-116.888387
+106361144,Chino Valley Medical Center,San Bernardino,Prime Healthcare Services,2022,100-149,Investor Owned,Urban,Non-Teaching,34420,15.0,34.02626,-117.687,No,No,2294.6666666666665,3,34.0255159,-117.6860029
+106361166,Montclair Hospital Medical Center,San Bernardino,Prime Healthcare Services,2022,100-149,Investor Owned,Urban,Non-Teaching,23393,12.0,34.07774,-117.69603,No,Yes,1949.4166666666667,3,34.0787364,-117.6960075
+106361223,Kaiser Foundation Hospital – Fontana,San Bernardino,Kaiser Foundation Hospitals,2022,300-499,Nonprofit,Urban,Non-Teaching,141171,92.0,34.0725,-117.43549,Yes,No,1534.4673913043478,6,34.0734623,-117.434366
+106361246,Loma Linda University Medical Center,San Bernardino,Loma Linda University,2022,300-499,Nonprofit,Urban,Teaching,40403,40.0,34.05164,-117.26146,No,No,1010.075,6,34.05164,-117.26146
+106361266,Mountains Community Hospital,San Bernardino,No System,2022,1-49,Government,Rural,Non-Teaching,8625,6.0,34.26583,-117.16716,Yes,Yes,1437.5,1,34.2654348,-117.1685596
+106361318,San Antonio Regional Hospital,San Bernardino,No System,2022,300-499,Nonprofit,Urban,Non-Teaching,77789,52.0,34.10056,-117.63828,No,Yes,1495.9423076923076,6,34.101896,-117.637482
+106361323,Community Hospital of San Bernardino,San Bernardino,Dignity Health,2022,300-499,Nonprofit,Urban,Non-Teaching,54577,18.0,34.13138,-117.32245,No,Yes,3032.0555555555557,6,34.1313185,-117.3209714
+106361343,St. Mary Medical Center – Apple Valley,San Bernardino,Providence St. Joseph Health,2022,200-299,Nonprofit,Urban,Non-Teaching,65213,43.0,34.54053,-117.26535,No,Yes,1516.5813953488373,5,34.5416051,-117.2656827
+106361370,Victor Valley Global Medical Center,San Bernardino,"KPC Healthcare, Inc.",2022,100-149,Investor Owned,Urban,Non-Teaching,29888,16.0,34.5281768,-117.2925622,Yes,Yes,1868.0,3,34.5275301,-117.2934438
+106362041,Hi-Desert Medical Center,San Bernardino,Tenet Healthcare Corporation,2022,150-199,Investor Owned,Rural,Non-Teaching,23888,16.0,34.13323,-116.27654,Yes,Yes,1493.0,4,34.1317727,-116.2741896
+106364144,Desert Valley Hospital,San Bernardino,Prime Healthcare Services,2022,100-149,Investor Owned,Urban,Non-Teaching,36593,18.0,34.47093,-117.29778,Yes,Yes,2032.9444444444443,3,34.4722857,-117.2980128
+106364231,Arrowhead Regional Medical Center,San Bernardino,No System,2022,300-499,Government,Urban,Teaching,57942,47.0,34.07163215,-117.35277613,Yes,No,1232.8085106382978,6,34.07163215,-117.35277613
+106364430,Barstow Community Hospital,San Bernardino,No System,2022,1-49,Investor Owned,Rural,Non-Teaching,26608,16.0,34.8935263,-117.0168841,Yes,Yes,1663.0,1,34.8921713,-117.0166969
+106370689,Sharp Coronado Hospital and Healthcare Center,San Diego,Sharp Healthcare,2022,50-99,Nonprofit,Urban,Non-Teaching,23959,15.0,32.69427,-117.16808,No,Yes,1597.2666666666667,2,32.6944471,-117.168661
+106370694,Sharp Memorial Hospital,San Diego,Sharp Healthcare,2022,500+,Nonprofit,Urban,Non-Teaching,77303,62.0,32.80016,-117.15531,No,No,1246.8225806451612,7,32.7995207,-117.1546027
+106370714,Grossmont Hospital,San Diego,Sharp Healthcare,2022,500+,Nonprofit,Urban,Non-Teaching,87491,113.0,32.77963,-117.00924,No,Yes,774.2566371681415,7,32.7807472,-117.007184
+106370730,Kaiser Foundation Hospital – San Diego – Zion,San Diego,Kaiser Foundation Hospitals,2022,300-499,Nonprofit,Urban,Non-Teaching,115700,114.0,32.79287,-117.09447,No,No,1014.9122807017544,6,32.7916133,-117.0954049
+106370744,Scripps Mercy Hospital,San Diego,Scripps Health,2022,300-499,Nonprofit,Urban,Teaching,98291,78.0,32.75128,-117.1609,No,No,1260.1410256410256,6,32.7511432,-117.1608129
+106370759,Paradise Valley Hospital,San Diego,Prime Healthcare Services,2022,200-299,Investor Owned,Urban,Non-Teaching,17746,20.0,32.6863293,-117.0830382,Yes,Yes,887.3,5,32.6853667,-117.0820744
+106370771,Scripps Memorial Hospital – La Jolla,San Diego,Scripps Health,2022,300-499,Nonprofit,Urban,Non-Teaching,38053,47.0,32.88506,-117.22279,No,No,809.6382978723404,6,32.8851544,-117.2255383
+106370780,Tri-City Medical Center,San Diego,No System,2022,300-499,Government,Urban,Non-Teaching,43017,40.0,33.18394,-117.29027,No,No,1075.425,6,33.1856484,-117.2904359
+106370782,UC San Diego Health Hillcrest – Hillcrest Medical Center,San Diego,University of California,2022,300-499,Government,Urban,Teaching,58676,86.0,32.75387,-117.16498,No,No,682.2790697674419,6,32.7542698,-117.166135
+106370875,Sharp Chula Vista Medical Center,San Diego,Sharp Healthcare,2022,300-499,Nonprofit,Urban,Non-Teaching,63959,48.0,32.61909,-117.02488,No,No,1332.4791666666667,6,32.6196499,-117.0232636
+106370977,Palomar Medical Center Poway,San Diego,No System,2022,200-299,Government,Urban,Non-Teaching,28128,8.0,32.99563,-117.05784,No,No,3516.0,5,32.99563,-117.05784
+106371394,Scripps Memorial Hospital – Encinitas,San Diego,Scripps Health,2022,150-199,Nonprofit,Urban,Non-Teaching,44558,38.0,33.0363,-117.28495,No,No,1172.578947368421,4,33.0375151,-117.2842364
+106374382,Palomar Medical Center,San Diego,No System,2022,200-299,Government,Urban,Non-Teaching,77978,72.0,33.12158,-117.11961,No,Yes,1083.0277777777778,5,33.12158,-117.11961
+106380857,Kaiser Foundation Hospital – San Francisco,San Francisco,Kaiser Foundation Hospitals,2022,200-299,Nonprofit,Urban,Teaching,33199,30.0,37.78274,-122.44289,No,No,1106.6333333333334,5,37.7826471,-122.4432378
+106380933,California Pacific Medical Center – Davies Campus Hospital,San Francisco,Sutter Health,2022,200-299,Nonprofit,Urban,Non-Teaching,10651,12.0,37.7691,-122.43465,No,No,887.5833333333334,5,37.768222,-122.4345926
+106380939,Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,San Francisco,No System,2022,300-499,Government,Urban,Teaching,42628,59.0,37.75657,-122.40637,No,No,722.5084745762712,6,37.7555919,-122.405629
+106380960,Saint Francis Memorial Hospital,San Francisco,Dignity Health,2022,200-299,Nonprofit,Urban,Non-Teaching,20710,19.0,37.78917,-122.41695,No,No,1090.0,5,37.7893799,-122.4167294
+106380965,St. Mary's Medical Center,San Francisco,Dignity Health,2022,200-299,Nonprofit,Urban,Teaching,11039,12.0,37.77408,-122.45441,No,No,919.9166666666666,5,37.7740749,-122.4538893
+106384176,California Pacific Medical Center – Van Ness Campus,San Francisco,Sutter Health,2022,200-299,Nonprofit,Urban,Non-Teaching,26741,35.0,37.78584,-122.42175,No,Yes,764.0285714285715,5,37.7860406,-122.4227467
+106384202,California Pacific Medical Center – Mission Bernal Campus,San Francisco,Sutter Health,2022,100-149,Nonprofit,Urban,Non-Teaching,18481,16.0,37.74804,-122.42094,No,No,1155.0625,3,37.7478141,-122.42152
+106390923,Adventist Health Lodi Memorial,San Joaquin,Adventist Health Systems,2022,150-199,Nonprofit,Urban,Non-Teaching,51227,28.0,38.12146,-121.2859,No,Yes,1829.5357142857142,4,38.1214679,-121.2869098
+106391010,San Joaquin General Hospital,San Joaquin,No System,2022,150-199,Government,Urban,Non-Teaching,43446,26.0,37.88594,-121.28918,Yes,Yes,1671.0,4,37.8861911,-121.2834797
+106391056,Sutter Tracy Community Hospital,San Joaquin,Sutter Health,2022,50-99,Nonprofit,Urban,Non-Teaching,28908,14.0,37.74366,-121.43482,No,Yes,2064.8571428571427,2,37.7440949,-121.4338723
+106392287,Doctors Hospital of Manteca,San Joaquin,Tenet Healthcare Corporation,2022,50-99,Investor Owned,Urban,Non-Teaching,26643,11.0,37.80111,-121.19746,No,Yes,2422.090909090909,2,37.801463,-121.1969169
+106394009,Kaiser Foundation Hospital – Manteca,San Joaquin,Kaiser Foundation Hospitals,2022,50-99,Nonprofit,Urban,Non-Teaching,107498,47.0,37.79736,-121.24614,No,Yes,2287.191489361702,2,37.7982558,-121.2462723
+106400466,Marian Regional Medical Center – Arroyo Grande,San Luis Obispo,Dignity Health,2022,50-99,Nonprofit,Rural,Non-Teaching,27109,18.0,35.11369,-120.59147,No,Yes,1506.0555555555557,2,35.1136376,-120.5907722
+106400480,French Hospital Medical Center,San Luis Obispo,Dignity Health,2022,50-99,Nonprofit,Rural,Non-Teaching,21644,22.0,35.27801,-120.64977,No,Yes,983.8181818181819,2,35.2779659,-120.6512671
+106400524,Tenet Health Central Coast Sierra Vista Regional Medical Center,San Luis Obispo,Tenet Healthcare Corporation,2022,150-199,Investor Owned,Rural,Non-Teaching,20637,11.0,35.290986,-120.666309,No,Yes,1876.090909090909,4,35.2922411,-120.665834
+106400548,Tenet Health Central Coast Twin Cities Community Hospital,San Luis Obispo,Tenet Healthcare Corporation,2022,100-149,Investor Owned,Urban,Non-Teaching,27954,23.0,35.5543,-120.71967,No,No,1215.391304347826,3,35.5560403,-120.7190446
+106410782,San Mateo Medical Center,San Mateo,No System,2022,150-199,Government,Urban,Non-Teaching,33808,15.0,37.53017,-122.29951,No,No,2253.866666666667,4,37.5307466,-122.2991144
+106410806,Kaiser Foundation Hospital – South San Francisco,San Mateo,Kaiser Foundation Hospitals,2022,100-149,Nonprofit,Urban,Non-Teaching,40921,19.0,37.65806,-122.43837,No,No,2153.7368421052633,3,37.659206,-122.4391154
+106410817,AHMC Seton Medical Center,San Mateo,Verity Health System,2022,300-499,Investor Owned,Urban,Non-Teaching,13136,22.0,37.68172,-122.47283,No,No,597.0909090909091,6,37.6796714,-122.4743635
+106410828,AHMC Seton Medical Center Coastside,San Mateo,Verity Health System,2022,100-149,Investor Owned,Rural,Non-Teaching,1620,7.0,37.52439,-122.50882,No,No,231.42857142857142,3,37.52439,-122.50882
+106410852,Mills-Peninsula Medical Center,San Mateo,Sutter Health,2022,200-299,Nonprofit,Urban,Non-Teaching,40552,26.0,37.5944692,-122.3832465,No,No,1559.6923076923076,5,37.5918122,-122.3833296
+106410891,Sequoia Hospital,San Mateo,Dignity Health,2022,200-299,Nonprofit,Urban,Non-Teaching,16318,17.0,37.48129,-122.25377,No,No,959.8823529411765,5,37.479843,-122.2546654
+106414139,Kaiser Foundation Hospital – Redwood City,San Mateo,Kaiser Foundation Hospitals,2022,150-199,Nonprofit,Urban,Non-Teaching,33387,24.0,37.48967,-122.22463,No,No,1391.125,4,37.4891882,-122.2242762
+106420483,Goleta Valley Cottage Hospital,Santa Barbara,No System,2022,1-49,Nonprofit,Urban,Non-Teaching,22965,23.0,34.43336,-119.80929,No,Yes,998.4782608695652,1,34.4329289,-119.8107229
+106420491,Lompoc Valley Medical Center,Santa Barbara,No System,2022,50-99,Government,Rural,Non-Teaching,20131,10.0,34.639252,-120.4396497,No,Yes,2013.1,2,34.639252,-120.4396497
+106420493,Marian Regional Medical Center,Santa Barbara,Dignity Health,2022,200-299,Nonprofit,Urban,Non-Teaching,49585,41.0,34.95198,-120.41338,Yes,Yes,1209.3902439024391,5,34.95198,-120.41338
+106420514,Santa Barbara Cottage Hospital,Santa Barbara,No System,2022,300-499,Nonprofit,Urban,Non-Teaching,37875,40.0,34.42948,-119.72317,No,No,946.875,6,34.4295556,-119.7243225
+106420522,Santa Ynez Valley Cottage Hospital,Santa Barbara,No System,2022,1-49,Nonprofit,Rural,Non-Teaching,9382,8.0,34.60243,-120.12721,No,Yes,1172.75,1,34.602352,-120.1256952
+106430763,El Camino Health,Santa Clara,No System,2022,300-499,Nonprofit,Urban,Non-Teaching,58812,40.0,37.36779,-122.07801,No,No,1470.3,6,37.3692312,-122.079404
+106430779,Good Samaritan Hospital – San Jose,Santa Clara,HCA Healthcare Corporation,2022,300-499,Investor Owned,Urban,Non-Teaching,49478,35.0,37.25116,-121.9449,No,No,1413.6571428571428,6,37.2531634,-121.9474221
+106430837,O'Connor Hospital,Santa Clara,Verity Health System,2022,300-499,Government,Urban,Non-Teaching,52606,25.0,37.32714,-121.93727,No,No,2104.24,6,37.3276348,-121.9388672
+106430905,Stanford Health Care,Santa Clara,No System,2022,200-299,Nonprofit,Urban,Teaching,71442,84.0,37.433,-122.175881,No,No,850.5,5,37.4330746,-122.1750485
+106431506,Kaiser Foundation Hospital – San Jose,Santa Clara,Kaiser Foundation Hospitals,2022,200-299,Nonprofit,Urban,Non-Teaching,71282,36.0,37.23924,-121.80269,No,No,1980.0555555555557,5,37.2398041,-121.8002512
+106434138,St. Louise Regional Hospital,Santa Clara,Verity Health System,2022,50-99,Government,Rural,Non-Teaching,35422,8.0,37.03731,-121.57411,No,No,4427.75,2,37.0367167,-121.5711608
+106434153,Kaiser Foundation Hospital – Santa Clara,Santa Clara,Kaiser Foundation Hospitals,2022,300-499,Nonprofit,Urban,Non-Teaching,72224,30.0,37.334597,-121.995774,No,No,2407.4666666666667,6,37.3362374,-121.998538
+106444013,Watsonville Community Hospital,Santa Cruz,No System,2022,100-149,Nonprofit,Urban,Non-Teaching,28994,12.0,36.92839,-121.79173,Yes,No,2416.1666666666665,3,36.927119,-121.7925372
+106450936,Mayers Memorial Hospital,Shasta,No System,2022,100-149,Government,Frontier,Non-Teaching,4154,6.0,41.02423,-121.42442,Yes,Yes,692.3333333333334,3,41.0236764,-121.4240081
+106450940,Shasta Regional Medical Center,Shasta,Prime Healthcare Services,2022,200-299,Investor Owned,Urban,Non-Teaching,24170,27.0,40.58562,-122.387731,No,Yes,895.1851851851852,5,40.5855541,-122.3877573
+106450949,Mercy Medical Center – Redding,Shasta,Dignity Health,2022,200-299,Nonprofit,Urban,Non-Teaching,43794,26.0,40.57204,-122.39742,No,Yes,1684.3846153846155,5,40.5719533,-122.3952328
+106470871,Mercy Medical Center Mt. Shasta,Siskiyou,Dignity Health,2022,1-49,Nonprofit,Rural,Non-Teaching,10147,11.0,41.31894,-122.32309,Yes,Yes,922.4545454545455,1,41.3187005,-122.3209208
+106474007,Fairchild Medical Center,Siskiyou,No System,2022,1-49,Nonprofit,Rural,Non-Teaching,9916,7.0,41.71949,-122.645801,Yes,Yes,1416.5714285714287,1,41.71949,-122.645801
+106480989,Kaiser Foundation Hospital & Rehab Center – Vallejo,Solano,Kaiser Foundation Hospitals,2022,200-299,Nonprofit,Urban,Non-Teaching,59579,51.0,38.12839,-122.24761,No,No,1168.2156862745098,5,38.1259988,-122.2472204
+106481094,Sutter Solano Medical Center,Solano,Sutter Health,2022,100-149,Nonprofit,Urban,Non-Teaching,25013,13.0,38.13109,-122.23852,No,No,1924.076923076923,3,38.1312888,-122.2373373
+106481357,NorthBay Medical Center,Solano,No System,2022,150-199,Nonprofit,Urban,Non-Teaching,60524,45.0,38.26097,-122.05076,No,No,1344.9777777777779,4,38.2620091,-122.0473434
+106484044,Kaiser Foundation Hospital – Vacaville,Solano,Kaiser Foundation Hospitals,2022,100-149,Nonprofit,Urban,Non-Teaching,52521,27.0,38.3894968,-121.9373177,No,No,1945.2222222222222,3,38.3884817,-121.9392573
+106490964,Healdsburg Hospital,Sonoma,No System,2022,1-49,Investor Owned,Rural,Non-Teaching,8867,9.0,38.62764,-122.86385,No,No,985.2222222222222,1,38.62764,-122.86385
+106491001,Petaluma Valley Hospital,Sonoma,Providence St. Joseph Health,2022,50-99,Investor Owned,Urban,Non-Teaching,17337,15.0,38.25323,-122.63302,No,No,1155.8,2,38.25459,-122.6316537
+106491064,Providence Santa Rosa Memorial Hospital – Montgomery,Sonoma,Providence St. Joseph Health,2022,200-299,Investor Owned,Urban,Non-Teaching,34075,33.0,38.4429,-122.70149,No,Yes,1032.5757575757575,5,38.4437589,-122.7011068
+106491076,Sonoma Valley Hospital,Sonoma,No System,2022,50-99,Government,Urban,Non-Teaching,8730,8.0,38.28841,-122.46524,Yes,No,1091.25,2,38.2881503,-122.4656876
+106494019,Kaiser Foundation Hospital – Santa Rosa,Sonoma,Kaiser Foundation Hospitals,2022,150-199,Nonprofit,Urban,Teaching,56133,30.0,38.47087,-122.73119,No,Yes,1871.1,4,38.4720582,-122.7285573
+106494106,Sutter Santa Rosa Regional Hospital,Sonoma,Sutter Health,2022,100-149,Nonprofit,Urban,Non-Teaching,30152,34.0,38.49636,-122.7514,No,Yes,886.8235294117648,3,38.495316,-122.7523667
+106500852,Doctors Medical Center,Stanislaus,Tenet Healthcare Corporation,2022,300-499,Investor Owned,Urban,Non-Teaching,81497,33.0,37.66439,-120.99631,No,No,2469.6060606060605,6,37.66575,-120.9973109
+106500867,Emanuel Medical Center,Stanislaus,Tenet Healthcare Corporation,2022,200-299,Investor Owned,Urban,Non-Teaching,55573,32.0,37.51052,-120.83966,No,No,1736.65625,5,37.5115162,-120.8378339
+106500939,Memorial Medical Center – Modesto,Stanislaus,Sutter Health,2022,300-499,Nonprofit,Urban,Non-Teaching,75794,38.0,37.66868,-120.973381,No,No,1994.578947368421,6,37.6686472,-120.9746362
+106500967,Oak Valley Hospital District,Stanislaus,No System,2022,1-49,Government,Rural,Non-Teaching,19858,12.0,37.75782,-120.86031,Yes,No,1654.8333333333333,1,37.7568551,-120.8612483
+106521041,St. Elizabeth Community Hospital,Tehama,Dignity Health,2022,50-99,Nonprofit,Rural,Non-Teaching,28962,14.0,40.1495,-122.21887,Yes,Yes,2068.714285714286,2,40.1484537,-122.2196519
+106540734,Kaweah Health Medical Center,Tulare,No System,2022,300-499,Government,Urban,Non-Teaching,64254,78.0,36.32753,-119.29345,Yes,Yes,823.7692307692307,6,36.328572,-119.2949582
+106540798,Sierra View Medical Center,Tulare,No System,2022,150-199,Government,Rural,Non-Teaching,33711,24.0,36.06948,-119.02727,Yes,Yes,1404.625,4,36.0690832,-119.0273534
+106540816,Adventist Health Tulare,Tulare,Adventist Health Systems,2022,100-149,Nonprofit,Rural,Non-Teaching,30394,15.0,36.2210166,-119.3385341,Yes,Yes,2026.2666666666667,3,36.2211168,-119.3385333
+106554011,Adventist Health Sonora – Greenley,Tuolumne,Adventist Health Systems,2022,50-99,Nonprofit,Rural,Non-Teaching,31058,18.0,37.97568,-120.369,Yes,Yes,1725.4444444444443,2,37.9773582,-120.3711158
+106560481,Ventura County Medical Center,Ventura,No System,2022,200-299,Government,Urban,Non-Teaching,44981,35.0,34.27693,-119.25384,No,No,1285.1714285714286,5,34.2773769,-119.2532347
+106560492,Los Robles Hospital & Medical Center,Ventura,HCA Healthcare Corporation,2022,300-499,Investor Owned,Urban,Non-Teaching,42642,34.0,34.20762,-118.882411,No,No,1254.1764705882354,6,34.2067796,-118.8830898
+106560501,Ojai Valley Community Hospital,Ventura,No System,2022,1-49,Nonprofit,Rural,Non-Teaching,8161,6.0,34.44221,-119.26311,No,No,1360.1666666666667,1,34.4428996,-119.2643205
+106560508,St. John's Hospital Camarillo,Ventura,Dignity Health,2022,100-149,Nonprofit,Urban,Non-Teaching,23191,14.0,34.24177,-119.018,No,No,1656.5,3,34.2443679,-119.0195219
+106560529,St. John's Regional Medical Center,Ventura,Dignity Health,2022,200-299,Nonprofit,Urban,Non-Teaching,47691,31.0,34.21687,-119.15819,No,Yes,1538.4193548387098,5,34.2163022,-119.1558102
+106574010,Sutter Davis Hospital,Yolo,Sutter Health,2022,1-49,Nonprofit,Urban,Non-Teaching,29488,11.0,38.56289,-121.77164,No,Yes,2680.7272727272725,1,38.5626885,-121.7706836
+106580996,Adventist Health and Rideout,Yuba,Adventist Health Systems,2022,200-299,Nonprofit,Rural,Non-Teaching,63625,44.0,39.138805,-121.593602,Yes,Yes,1446.0227272727273,5,39.1381501,-121.5942332
+106010735,Alameda Hospital,Alameda,Alameda Health System,2023,100-149,Government,Urban,Non-Teaching,15019,12.0,37.7626798,-122.2541062,No,No,1251.5833333333333,3,37.7626798,-122.2541062
+106010739,Alta Bates Summit Medical Center – Alta Bates Campus,Alameda,Sutter Health,2023,300-499,Nonprofit,Urban,Non-Teaching,31444,22.0,37.8556279,-122.2575014,No,No,1429.2727272727273,6,37.8556279,-122.2575014
+106010776,UC San Francisco Benioff Children's Hospital Oakland,Alameda,University of California,2023,150-199,Nonprofit,Urban,Non-Teaching,36398,40.0,37.8369379,-122.2672306,No,No,909.95,4,37.8369379,-122.2672306
+106010846,Highland Hospital,Alameda,Alameda Health System,2023,150-199,Government,Urban,Non-Teaching,69248,54.0,37.7990596,-122.2325063,No,No,1282.3703703703704,4,37.7990596,-122.2325063
+106010937,Alta Bates Summit Medical Center,Alameda,Sutter Health,2023,300-499,Nonprofit,Urban,Non-Teaching,30794,30.0,37.821175,-122.26304,No,No,1026.4666666666667,6,37.821175,-122.26304
+106010987,Washington Hospital – Fremont,Alameda,No System,2023,300-499,Government,Urban,Non-Teaching,45467,39.0,37.5572736,-121.9779535,No,No,1165.820512820513,6,37.5572736,-121.9779535
+106014132,Kaiser Foundation Hospital – Fremont,Alameda,Kaiser Foundation Hospitals,2023,100-149,Nonprofit,Urban,Non-Teaching,41817,18.0,37.5521617,-121.9754891,No,No,2323.1666666666665,3,37.5521617,-121.9754891
+106014233,Eden Medical Center,Alameda,Sutter Health,2023,100-149,Nonprofit,Urban,Non-Teaching,36482,22.0,37.6982572,-122.0901455,No,No,1658.2727272727273,3,37.6982572,-122.0901455
+106014326,Kaiser Foundation Hospital – Oakland Medical Center,Alameda,Kaiser Foundation Hospitals,2023,300-499,Nonprofit,Urban,Teaching,128660,80.0,37.8237432,-122.258237,No,No,1608.25,6,37.8237432,-122.258237
+106014337,Kaiser Foundation Hospital – San Leandro,Alameda,Kaiser Foundation Hospitals,2023,200-299,Nonprofit,Urban,Non-Teaching,72125,40.0,37.706844,-122.1642717,No,No,1803.125,5,37.706844,-122.1642717
+106034002,Sutter Amador Hospital,Amador,Sutter Health,2023,50-99,Nonprofit,Rural,Non-Teaching,24918,14.0,38.3504826,-120.764465,Yes,No,1779.857142857143,2,38.3504826,-120.764465
+106040802,Orchard Hospital,Butte,No System,2023,1-49,Nonprofit,Rural,Non-Teaching,9934,5.0,39.3675541,-121.6894693,Yes,Yes,1986.8,1,39.3675541,-121.6894693
+106040962,Enloe Health,Butte,Enloe Health,2023,200-299,Nonprofit,Urban,Non-Teaching,59394,47.0,39.7425867,-121.849727,No,Yes,1263.7021276595744,5,39.7425867,-121.849727
+106050932,Mark Twain Medical Center,Calaveras,Dignity Health,2023,1-49,Nonprofit,Rural,Non-Teaching,9997,8.0,38.1906896,-120.6701903,Yes,Yes,1249.625,1,38.1906896,-120.6701903
+106070934,Sutter Delta Medical Center,Contra Costa,Sutter Health,2023,100-149,Nonprofit,Urban,Non-Teaching,46518,30.0,37.9827593,-121.8029656,No,No,1550.6,3,37.9827593,-121.8029656
+106070988,John Muir Medical Center – Walnut Creek Medical Center,Contra Costa,John Muir Health,2023,500+,Nonprofit,Urban,Non-Teaching,50630,44.0,37.9128769,-122.0409498,No,No,1150.6818181818182,7,37.9128769,-122.0409498
+106070990,Kaiser Foundation Hospital – Walnut Creek,Contra Costa,Kaiser Foundation Hospitals,2023,200-299,Nonprofit,Urban,Non-Teaching,69036,52.0,37.8915065,-122.0580137,No,No,1327.6153846153845,5,37.8915065,-122.0580137
+106071018,John Muir Medical Center – Concord Medical Center,Contra Costa,John Muir Health,2023,200-299,Nonprofit,Urban,Non-Teaching,54050,32.0,37.9851726,-122.0336632,No,No,1689.0625,5,37.9851726,-122.0336632
+106074017,San Ramon Regional Medical Center,Contra Costa,Tenet Healthcare Corporation,2023,100-149,Investor Owned,Urban,Non-Teaching,18005,12.0,37.7752251,-121.958176,No,No,1500.4166666666667,3,37.7752251,-121.958176
+106074097,Kaiser Foundation Hospital – Antioch,Contra Costa,Kaiser Foundation Hospitals,2023,150-199,Nonprofit,Urban,Non-Teaching,67243,36.0,37.9508418,-121.7749286,No,No,1867.861111111111,4,37.9508418,-121.7749286
+106084001,Sutter Coast Hospital,Del Norte,Sutter Health,2023,1-49,Nonprofit,Rural,Non-Teaching,17032,11.0,41.7736588,-124.1942469,Yes,Yes,1548.3636363636363,1,41.7736588,-124.1942469
+106090793,Barton Memorial Hospital,El Dorado,No System,2023,100-149,Nonprofit,Rural,Non-Teaching,17811,12.0,38.9115633,-119.9965447,Yes,Yes,1484.25,3,38.9115633,-119.9965447
+106090933,Marshall Medical Center,El Dorado,No System,2023,100-149,Nonprofit,Rural,Non-Teaching,28952,24.0,38.72467,-120.7916501,No,No,1206.3333333333333,3,38.72467,-120.7916501
+106100005,Clovis Community Medical Center,Fresno,No System,2023,300-499,Nonprofit,Rural,Non-Teaching,63255,59.0,36.8388469,-119.6611827,Yes,Yes,1072.1186440677966,6,36.8388469,-119.6611827
+106100697,Coalinga Regional Medical Center,Fresno,No System,2023,50-99,Investor Owned,Rural,Non-Teaching,9268,9.0,36.1519675,-120.3409955,Yes,Yes,1029.7777777777778,2,36.1519675,-120.3409955
+106100717,Community Regional Medical Center – Fresno,Fresno,No System,2023,500+,Nonprofit,Urban,Teaching,83169,73.0,36.7426302,-119.7847479,Yes,No,1139.3013698630136,7,36.7426302,-119.7847479
+106100797,Adventist Health Reedley,Fresno,Adventist Health Systems,2023,1-49,Nonprofit,Rural,Non-Teaching,36422,10.0,36.6081792,-119.4531164,Yes,Yes,3642.2,1,36.6081792,-119.4531164
+106100899,Saint Agnes Medical Center,Fresno,No System,2023,300-499,Nonprofit,Urban,Teaching,63937,48.0,36.8342377,-119.763776,No,Yes,1332.0208333333333,6,36.8342377,-119.763776
+106104062,Kaiser Foundation Hospital – Fresno,Fresno,Kaiser Foundation Hospitals,2023,150-199,Nonprofit,Urban,Non-Teaching,51343,21.0,36.8424331,-119.780467,No,Yes,2444.904761904762,4,36.8424331,-119.780467
+106110889,Glenn Medical Center,Glenn,No System,2023,1-49,Investor Owned,Frontier,Non-Teaching,6152,5.0,39.5213602,-122.2084362,Yes,Yes,1230.4,1,39.5213602,-122.2084362
+106121002,Mad River Community Hospital,Humboldt,No System,2023,50-99,Investor Owned,Rural,Non-Teaching,11554,12.0,40.8964923,-124.0899265,Yes,Yes,962.8333333333334,2,40.8964923,-124.0899265
+106121051,Providence Redwood Memorial Hospital,Humboldt,Providence St. Joseph Health,2023,1-49,Investor Owned,Rural,Non-Teaching,10670,8.0,40.5823366,-124.1363749,Yes,Yes,1333.75,1,40.5823366,-124.1363749
+106121080,Providence St. Joseph Hospital – Eureka,Humboldt,Providence St. Joseph Health,2023,100-149,Investor Owned,Rural,Non-Teaching,28789,20.0,40.784389,-124.141634,Yes,Yes,1439.45,3,40.784389,-124.141634
+106130699,El Centro Regional Medical Center,Imperial,No System,2023,150-199,Government,Rural,Non-Teaching,30623,20.0,32.7811032,-115.5676689,Yes,Yes,1531.15,4,32.7811032,-115.5676689
+106141273,Northern Inyo Hospital,Inyo,No System,2023,1-49,Government,Rural,Non-Teaching,8810,8.0,37.3619709,-118.4061853,No,No,1101.25,1,37.3619709,-118.4061853
+106150706,Adventist Health Delano,Kern,Adventist Health Systems,2023,150-199,Nonprofit,Urban,Non-Teaching,28495,10.0,35.7622854,-119.2392519,Yes,Yes,2849.5,4,35.7622854,-119.2392519
+106150722,Bakersfield Memorial Hospital,Kern,Dignity Health,2023,300-499,Nonprofit,Urban,Non-Teaching,78870,36.0,35.3928295,-119.0061541,No,Yes,2190.8333333333335,6,35.3928295,-119.0061541
+106150736,Kern Medical Center,Kern,No System,2023,200-299,Government,Urban,Teaching,46049,30.0,35.3828699,-118.970257,No,Yes,1534.9666666666667,5,35.3828699,-118.970257
+106150737,Kern Valley Healthcare District,Kern,No System,2023,100-149,Government,Frontier,Non-Teaching,6965,8.0,35.6352884,-118.4064635,Yes,Yes,870.625,3,35.6352884,-118.4064635
+106150761,Mercy Hospital – Bakersfield,Kern,Dignity Health,2023,100-149,Nonprofit,Urban,Non-Teaching,68142,38.0,35.3728014,-119.0267624,No,Yes,1793.2105263157894,3,35.3728014,-119.0267624
+106150782,Ridgecrest Regional Hospital,Kern,No System,2023,50-99,Nonprofit,Rural,Non-Teaching,15089,12.0,35.6407445,-117.6711685,Yes,Yes,1257.4166666666667,2,35.6407445,-117.6711685
+106150788,Adventist Health Bakersfield,Kern,Adventist Health Systems,2023,200-299,Nonprofit,Urban,Non-Teaching,53560,40.0,35.3833744,-119.0206543,No,Yes,1339.0,5,35.3833744,-119.0206543
+106154168,Adventist Health Tehachapi Valley,Kern,Adventist Health Systems,2023,1-49,Nonprofit,Rural,Non-Teaching,20975,13.0,35.1476985,-118.4509007,Yes,Yes,1613.4615384615386,1,35.1476985,-118.4509007
+106164029,Adventist Health Hanford,Kings,Adventist Health Systems,2023,150-199,Nonprofit,Urban,Non-Teaching,94386,44.0,36.3232171,-119.667877,Yes,Yes,2145.1363636363635,4,36.3232171,-119.667877
+106171049,Adventist Health Clearlake,Lake,Adventist Health Systems,2023,1-49,Nonprofit,Rural,Non-Teaching,18871,8.0,38.9356064,-122.6202387,Yes,Yes,2358.875,1,38.9356064,-122.6202387
+106171395,Sutter Lakeside Hospital,Lake,Sutter Health,2023,1-49,Nonprofit,Rural,Non-Teaching,19980,12.0,39.1047366,-122.9065198,Yes,Yes,1665.0,1,39.1047366,-122.9065198
+106184008,Banner Lassen Medical Center,Lassen,No System,2023,1-49,Nonprofit,Rural,Non-Teaching,10230,8.0,40.4368049,-120.6280337,Yes,Yes,1278.75,1,40.4368049,-120.6280337
+106190034,Antelope Valley Medical Center,Los Angeles,No System,2023,300-499,Government,Urban,Non-Teaching,104096,55.0,34.6882482,-118.1591527,No,Yes,1892.6545454545455,6,34.6882482,-118.1591527
+106190045,Catalina Island Medical Center,Los Angeles,No System,2023,1-49,Nonprofit,Frontier,Non-Teaching,2364,2.0,33.3391874,-118.3306829,Yes,Yes,1182.0,1,33.3391874,-118.3306829
+106190053,St. Mary Medical Center – Long Beach,Los Angeles,Dignity Health,2023,300-499,Nonprofit,Urban,Teaching,41196,26.0,33.7805577,-118.1862725,No,No,1584.4615384615386,6,33.7805577,-118.1862725
+106190110,Southern California Hospital at Culver City,Los Angeles,Alta Hospitals System,2023,300-499,Investor Owned,Urban,Non-Teaching,12345,17.0,34.0232001,-118.3969128,No,No,726.1764705882352,6,34.0232001,-118.3969128
+106190125,California Hospital Medical Center – Los Angeles,Los Angeles,Dignity Health,2023,300-499,Nonprofit,Urban,Non-Teaching,59848,35.0,34.0373967,-118.2657271,No,No,1709.942857142857,6,34.0373967,-118.2657271
+106190170,Children's Hospital of Los Angeles,Los Angeles,No System,2023,300-499,Nonprofit,Urban,Non-Teaching,72057,46.0,34.0981547,-118.2907791,Yes,No,1566.4565217391305,6,34.0981547,-118.2907791
+106190197,Community Hospital of Huntington Park,Los Angeles,Avanti Hospitals,2023,50-99,Investor Owned,Urban,Non-Teaching,31010,14.0,33.9892161,-118.2245406,No,Yes,2215.0,2,33.9892161,-118.2245406
+106190198,Los Angeles Community Hospital,Los Angeles,Alta Hospitals System,2023,100-149,Investor Owned,Urban,Non-Teaching,3646,4.0,34.0193498,-118.1865467,Yes,Yes,911.5,3,34.0193498,-118.1865467
+106190200,San Gabriel Valley Medical Center,Los Angeles,"AHMC Healthcare, Inc.",2023,200-299,Investor Owned,Urban,Non-Teaching,22849,12.0,34.100917,-118.1055926,No,No,1904.0833333333333,5,34.100917,-118.1055926
+106190240,UC Irvine Health – Lakewood,Los Angeles,Tenet Healthcare Corporation,2023,150-199,Government,Urban,Non-Teaching,33564,14.0,33.8596883,-118.1482913,No,No,2397.4285714285716,4,33.8596883,-118.1482913
+106190243,PIH Health Hospital – Downey,Los Angeles,PIH Health,2023,150-199,Nonprofit,Urban,Non-Teaching,51620,32.0,33.9341503,-118.1317434,No,No,1613.125,4,33.9341503,-118.1317434
+106190280,Encino Hospital Medical Center,Los Angeles,Prime Healthcare Services,2023,100-149,Investor Owned,Urban,Non-Teaching,6837,9.0,34.1574278,-118.4870017,No,No,759.6666666666666,3,34.1574278,-118.4870017
+106190298,Emanate Health Foothill Presbyterian Hospital,Los Angeles,Emanate Health,2023,100-149,Nonprofit,Urban,Non-Teaching,34432,22.0,34.1327654,-117.8713435,No,No,1565.090909090909,3,34.1327654,-117.8713435
+106190315,Garfield Medical Center,Los Angeles,"AHMC Healthcare, Inc.",2023,200-299,Investor Owned,Urban,Non-Teaching,18573,21.0,34.0680808,-118.1231228,No,No,884.4285714285714,5,34.0680808,-118.1231228
+106190323,Adventist Health Glendale,Los Angeles,Adventist Health Systems,2023,500+,Nonprofit,Urban,Non-Teaching,41768,35.0,34.1507443,-118.2291341,No,No,1193.3714285714286,7,34.1507443,-118.2291341
+106190385,Providence Holy Cross Medical Center,Los Angeles,Providence St. Joseph Health,2023,300-499,Nonprofit,Urban,Non-Teaching,89151,32.0,34.279782,-118.4599806,No,No,2785.96875,6,34.279782,-118.4599806
+106190392,PIH Health Good Samaritan Hospital,Los Angeles,PIH Health,2023,300-499,Nonprofit,Urban,Non-Teaching,35308,20.0,34.054581,-118.2654301,No,No,1765.4,6,34.054581,-118.2654301
+106190400,Huntington Hospital,Los Angeles,No System,2023,500+,Nonprofit,Urban,Non-Teaching,52043,50.0,34.1343163,-118.1529214,No,No,1040.86,7,34.1343163,-118.1529214
+106190413,Emanate Health Inter – Community Hospital,Los Angeles,Emanate Health,2023,150-199,Investor Owned,Urban,Non-Teaching,33071,21.0,34.088233,-117.8937523,No,No,1574.8095238095239,4,34.088233,-117.8937523
+106190422,Torrance Memorial Medical Center,Los Angeles,Cedars-Sinai Health System,2023,500+,Nonprofit,Urban,Non-Teaching,78383,32.0,33.8134694,-118.3441879,Yes,No,2449.46875,7,33.8134694,-118.3441879
+106190429,Kaiser Foundation Hospital – Los Angeles,Los Angeles,Kaiser Foundation Hospitals,2023,300-499,Nonprofit,Urban,Teaching,52686,57.0,34.0989348,-118.2940915,Yes,No,924.3157894736842,6,34.0989348,-118.2940915
+106190431,Kaiser Foundation Hospital – South Bay,Los Angeles,Kaiser Foundation Hospitals,2023,200-299,Nonprofit,Urban,Non-Teaching,64861,47.0,33.7899325,-118.2947645,Yes,No,1380.0212765957447,5,33.7899325,-118.2947645
+106190432,Kaiser Foundation Hospital – Panorama City,Los Angeles,Kaiser Foundation Hospitals,2023,200-299,Nonprofit,Urban,Non-Teaching,64736,41.0,34.218819,-118.430039,No,No,1578.9268292682927,5,34.218819,-118.430039
+106190434,Kaiser Foundation Hospital – West LA,Los Angeles,Kaiser Foundation Hospitals,2023,200-299,Nonprofit,Urban,Non-Teaching,85122,53.0,34.0386088,-118.3743452,No,No,1606.0754716981132,5,34.0386088,-118.3743452
+106190470,Providence Little Company of Mary Medical Center – Torrance,Los Angeles,Providence St. Joseph Health,2023,300-499,Nonprofit,Urban,Non-Teaching,40909,29.0,33.8384678,-118.3572436,No,No,1410.655172413793,6,33.8384678,-118.3572436
+106190500,Cedars – Sinai Marina Hospital,Los Angeles,Cedars-Sinai Health System,2023,100-149,Nonprofit,Urban,Non-Teaching,35017,18.0,33.9821449,-118.4392262,No,No,1945.388888888889,3,33.9821449,-118.4392262
+106190521,Memorial Hospital of Gardena,Los Angeles,Avanti Hospitals,2023,150-199,Investor Owned,Urban,Non-Teaching,32018,12.0,33.8929929,-118.2950049,Yes,No,2668.1666666666665,4,33.8929929,-118.2950049
+106190522,Glendale Memorial Hospital and Health Center,Los Angeles,Dignity Health,2023,300-499,Nonprofit,Urban,Non-Teaching,27592,16.0,34.1280862,-118.2569564,No,No,1724.5,6,34.1280862,-118.2569564
+106190529,USC Arcadia Hospital,Los Angeles,University of Southern California,2023,300-499,Nonprofit,Urban,Non-Teaching,37634,35.0,34.1351456,-118.0415283,No,No,1075.2571428571428,6,34.1351456,-118.0415283
+106190547,Monterey Park Hospital,Los Angeles,"AHMC Healthcare, Inc.",2023,100-149,Investor Owned,Urban,Non-Teaching,17931,5.0,34.0495478,-118.1383262,No,No,3586.2,3,34.0495478,-118.1383262
+106190570,Norwalk Community Hospital,Los Angeles,Alta Hospitals System,2023,50-99,Investor Owned,Urban,Non-Teaching,4867,4.0,33.9107134,-118.0641183,No,No,1216.75,2,33.9107134,-118.0641183
+106190587,College Medical Center,Los Angeles,No System,2023,100-149,Investor Owned,Urban,Non-Teaching,5941,7.0,33.8069502,-118.1928532,No,No,848.7142857142857,3,33.8069502,-118.1928532
+106190630,Pomona Valley Hospital Medical Center,Los Angeles,No System,2023,300-499,Nonprofit,Urban,Non-Teaching,77362,70.0,34.0768776,-117.7516647,No,No,1105.1714285714286,6,34.0768776,-117.7516647
+106190631,PIH Health Whittier Hospital,Los Angeles,PIH Health,2023,500+,Nonprofit,Urban,Non-Teaching,62153,61.0,33.9690304,-118.0490717,No,No,1018.9016393442623,7,33.9690304,-118.0490717
+106190636,Emanate Health Queen of the Valley Hospital,Los Angeles,Emanate Health,2023,300-499,Investor Owned,Urban,Non-Teaching,55774,24.0,34.0632472,-117.9446757,No,No,2323.9166666666665,6,34.0632472,-117.9446757
+106190673,San Dimas Community Hospital,Los Angeles,Prime Healthcare Services,2023,100-149,Investor Owned,Urban,Non-Teaching,13232,8.0,34.097533,-117.8345314,No,No,1654.0,3,34.097533,-117.8345314
+106190680,Providence Little Company of Mary Medical Center – San Pedro,Los Angeles,Providence St. Joseph Health,2023,200-299,Nonprofit,Urban,Non-Teaching,33802,14.0,33.7382583,-118.305098,No,No,2414.4285714285716,5,33.7382583,-118.305098
+106190696,Pacifica Hospital of the Valley,Los Angeles,No System,2023,200-299,Investor Owned,Urban,Non-Teaching,6736,7.0,34.2405259,-118.3960912,Yes,No,962.2857142857143,5,34.2405259,-118.3960912
+106190708,Sherman Oaks Hospital,Los Angeles,Prime Healthcare Services,2023,150-199,Nonprofit,Urban,Non-Teaching,18214,12.0,34.160328,-118.449161,No,No,1517.8333333333333,4,34.160328,-118.449161
+106190754,St. Francis Medical Center,Los Angeles,Verity Health System,2023,300-499,Investor Owned,Urban,Non-Teaching,52193,40.0,33.930445,-118.2034141,Yes,Yes,1304.825,6,33.930445,-118.2034141
+106190756,Providence Saint John's Health Center,Los Angeles,Providence St. Joseph Health,2023,200-299,Nonprofit,Urban,Non-Teaching,26784,27.0,34.0307739,-118.4796445,No,No,992.0,5,34.0307739,-118.4796445
+106190758,Providence Saint Joseph Medical Center,Los Angeles,Providence St. Joseph Health,2023,300-499,Nonprofit,Urban,Non-Teaching,59044,48.0,34.1572533,-118.3292851,No,No,1230.0833333333333,6,34.1572533,-118.3292851
+106190766,Coast Plaza Hospital,Los Angeles,Avanti Hospitals,2023,100-149,Investor Owned,Urban,Non-Teaching,9245,8.0,33.9127726,-118.0988257,No,No,1155.625,3,33.9127726,-118.0988257
+106190812,Valley Presbyterian Hospital,Los Angeles,No System,2023,300-499,Nonprofit,Urban,Non-Teaching,46414,33.0,34.1943415,-118.4627736,No,No,1406.4848484848485,6,34.1943415,-118.4627736
+106190859,UCLA West Valley Medical Center,Los Angeles,HCA Healthcare Corporation,2023,200-299,Investor Owned,Urban,Non-Teaching,52314,30.0,34.2030563,-118.6298005,No,No,1743.8,5,34.2030563,-118.6298005
+106190878,Adventist Health White Memorial,Los Angeles,Adventist Health Systems,2023,300-499,Nonprofit,Urban,Teaching,54491,28.0,34.0492967,-118.2171632,No,No,1946.107142857143,6,34.0492967,-118.2171632
+106190883,Whittier Hospital Medical Center,Los Angeles,"AHMC Healthcare, Inc.",2023,150-199,Investor Owned,Urban,Non-Teaching,23610,14.0,33.9500168,-118.0034545,No,No,1686.4285714285713,4,33.9500168,-118.0034545
+106190949,Henry Mayo Newhall Hospital,Los Angeles,No System,2023,300-499,Nonprofit,Urban,Non-Teaching,54542,30.0,34.3984849,-118.5532663,No,No,1818.0666666666666,6,34.3984849,-118.5532663
+106191227,Los Angeles County/Harbor – UCLA Medical Center,Los Angeles,County of Los Angeles,2023,300-499,Government,Urban,Teaching,78461,72.0,33.8302832,-118.2919779,Yes,No,1089.736111111111,6,33.8302832,-118.2919779
+106191228,Los Angeles General Medical Center,Los Angeles,County of Los Angeles,2023,500+,Government,Urban,Teaching,106976,106.0,34.0576577,-118.2075805,No,No,1009.2075471698113,7,34.0576577,-118.2075805
+106191230,"Martin Luther King, Jr. Community Hospital",Los Angeles,No System,2023,100-149,Nonprofit,Urban,Non-Teaching,109217,29.0,33.9231731,-118.2413702,Yes,Yes,3766.103448275862,3,33.9231731,-118.2413702
+106191231,Los Angeles County Olive View – UCLA Medical Center,Los Angeles,County of Los Angeles,2023,300-499,Government,Urban,Teaching,55766,50.0,34.3258634,-118.4457148,No,No,1115.32,6,34.3258634,-118.4457148
+106191450,Kaiser Foundation Hospital – Woodland Hills,Los Angeles,Kaiser Foundation Hospitals,2023,200-299,Nonprofit,Urban,Non-Teaching,43594,38.0,34.1734332,-118.590208,No,No,1147.2105263157894,5,34.1734332,-118.590208
+106196035,Kaiser Foundation Hospital – Baldwin Park,Los Angeles,Kaiser Foundation Hospitals,2023,200-299,Nonprofit,Urban,Non-Teaching,69354,39.0,34.0656148,-117.9855472,Yes,No,1778.3076923076924,5,34.0656148,-117.9855472
+106196403,Kaiser Foundation Hospital – Downey,Los Angeles,Kaiser Foundation Hospitals,2023,300-499,Nonprofit,Urban,Non-Teaching,93684,80.0,33.9194557,-118.129002,No,No,1171.05,6,33.9194557,-118.129002
+106196405,Palmdale Regional Medical Center,Los Angeles,"Universal Health Services, Inc.",2023,150-199,Investor Owned,Urban,Non-Teaching,80002,35.0,34.5828766,-118.1448173,Yes,Yes,2285.7714285714287,4,34.5828766,-118.1448173
+106204019,Valley Children's Hospital,Madera,No System,2023,300-499,Nonprofit,Rural,Non-Teaching,81536,38.0,36.8840366,-119.8003218,Yes,Yes,2145.684210526316,6,36.8840366,-119.8003218
+106210992,Kaiser Foundation Hospital – San Rafael,Marin,Kaiser Foundation Hospitals,2023,100-149,Nonprofit,Urban,Non-Teaching,29190,21.0,38.0047045,-122.5546812,No,No,1390.0,3,38.0047045,-122.5546812
+106211006,MarinHealth Medical Center,Marin,No System,2023,300-499,Nonprofit,Urban,Non-Teaching,33113,31.0,37.9466692,-122.5358494,No,No,1068.1612903225807,6,37.9466692,-122.5358494
+106214034,Novato Community Hospital,Marin,Sutter Health,2023,1-49,Nonprofit,Urban,Non-Teaching,16200,9.0,38.0987422,-122.5606439,No,No,1800.0,1,38.0987422,-122.5606439
+106220733,John C Fremont Healthcare District,Mariposa,No System,2023,1-49,Government,Rural,Non-Teaching,6744,3.0,37.5001808,-119.9774497,Yes,Yes,2248.0,1,37.5001808,-119.9774497
+106231013,Adventist Health Mendocino Coast,Mendocino,Adventist Health Systems,2023,1-49,Nonprofit,Rural,Non-Teaching,9751,6.0,39.4313778,-123.800388,Yes,Yes,1625.1666666666667,1,39.4313778,-123.800388
+106231396,Adventist Health Ukiah Valley,Mendocino,Adventist Health Systems,2023,50-99,Nonprofit,Rural,Non-Teaching,29203,19.0,39.1530652,-123.2028906,Yes,Yes,1537.0,2,39.1530652,-123.2028906
+106234038,Adventist Health Howard Memorial,Mendocino,Adventist Health Systems,2023,1-49,Nonprofit,Rural,Non-Teaching,13586,9.0,39.3897448,-123.3387068,Yes,Yes,1509.5555555555557,1,39.3897448,-123.3387068
+106240924,Memorial Hospital Los Banos,Merced,Sutter Health,2023,1-49,Nonprofit,Rural,Non-Teaching,27420,10.0,37.0640913,-120.8592853,Yes,Yes,2742.0,1,37.0640913,-120.8592853
+106240942,Mercy Medical Center – Merced,Merced,Dignity Health,2023,150-199,Nonprofit,Urban,Non-Teaching,62563,26.0,37.3400786,-120.4672896,Yes,Yes,2406.269230769231,4,37.3400786,-120.4672896
+106260011,Mammoth Hospital,Mono,No System,2023,1-49,Government,Rural,Non-Teaching,10799,13.0,37.6441165,-118.9635535,No,Yes,830.6923076923077,1,37.6441165,-118.9635535
+106270744,Community Hospital of the Monterey Peninsula,Monterey,No System,2023,200-299,Nonprofit,Urban,Non-Teaching,44224,31.0,36.5785609,-121.9134061,No,No,1426.5806451612902,5,36.5785609,-121.9134061
+106270777,George L. Mee Memorial Hospital,Monterey,No System,2023,50-99,Nonprofit,Rural,Non-Teaching,15820,6.0,36.2060986,-121.1328496,No,Yes,2636.6666666666665,2,36.2060986,-121.1328496
+106270875,Salinas Valley Health Medical Center,Monterey,No System,2023,200-299,Government,Urban,Non-Teaching,54470,16.0,36.6594918,-121.6456896,Yes,Yes,3404.375,5,36.6594918,-121.6456896
+106274043,Natividad Medical Center,Monterey,No System,2023,150-199,Government,Urban,Non-Teaching,53276,19.0,36.6966688,-121.6330887,Yes,Yes,2804.0,4,36.6966688,-121.6330887
+106281047,Providence Queen of the Valley Medical Center,Napa,Providence St. Joseph Health,2023,150-199,Investor Owned,Urban,Non-Teaching,26904,18.0,38.324482,-122.2971094,No,No,1494.6666666666667,4,38.324482,-122.2971094
+106281078,Adventist Health St. Helena,Napa,Adventist Health Systems,2023,150-199,Nonprofit,Rural,Non-Teaching,6472,8.0,38.5425498,-122.4748281,No,No,809.0,4,38.5425498,-122.4748281
+106291023,Sierra Nevada Memorial Hospital,Nevada,Dignity Health,2023,100-149,Nonprofit,Rural,Non-Teaching,24824,18.0,39.2278824,-121.0459398,Yes,Yes,1379.111111111111,3,39.2278824,-121.0459398
+106300032,Children's Hospital of Orange County,Orange,No System,2023,300-499,Nonprofit,Urban,Non-Teaching,103776,37.0,33.7809877,-117.8657581,No,No,2804.7567567567567,6,33.7809877,-117.8657581
+106301205,Hoag Memorial Hospital Presbyterian,Orange,Providence St. Joseph Health,2023,300-499,Nonprofit,Urban,Non-Teaching,104994,88.0,33.6247365,-117.9297422,No,No,1193.1136363636363,6,33.6247365,-117.9297422
+106301209,Huntington Beach Hospital,Orange,Prime Healthcare Services,2023,100-149,Investor Owned,Urban,Non-Teaching,12077,12.0,33.7037638,-117.9864477,No,No,1006.4166666666666,3,33.7037638,-117.9864477
+106301234,La Palma Intercommunity Hospital,Orange,Prime Healthcare Services,2023,100-149,Investor Owned,Urban,Non-Teaching,12263,10.0,33.847375,-118.0381861,No,No,1226.3,3,33.847375,-118.0381861
+106301248,UC Irvine Health – Los Alamitos,Orange,Tenet Healthcare Corporation,2023,150-199,Government,Urban,Non-Teaching,27460,23.0,33.8042516,-118.0675424,No,No,1193.9130434782608,4,33.8042516,-118.0675424
+106301279,UC Irvine Medical Center,Orange,University of California,2023,300-499,Government,Urban,Teaching,45465,64.0,33.7871265,-117.8883391,Yes,No,710.390625,6,33.7871265,-117.8883391
+106301283,Garden Grove Hospital and Medical Center,Orange,Prime Healthcare Services,2023,150-199,Investor Owned,Urban,Non-Teaching,19824,12.0,33.7750066,-117.9129079,Yes,No,1652.0,4,33.7750066,-117.9129079
+106301337,Providence Mission Hospital – Laguna Beach,Orange,Providence St. Joseph Health,2023,150-199,Nonprofit,Urban,Non-Teaching,14409,20.0,33.5002569,-117.7419417,No,No,720.45,4,33.5002569,-117.7419417
+106301342,Providence St. Jude Medical Center,Orange,Providence St. Joseph Health,2023,300-499,Nonprofit,Urban,Non-Teaching,57218,36.0,33.8943501,-117.92786,No,No,1589.388888888889,6,33.8943501,-117.92786
+106301357,Foothill Regional Medical Center,Orange,Alta Hospitals System,2023,150-199,Investor Owned,Urban,Non-Teaching,4226,8.0,33.7301168,-117.8284869,No,No,528.25,4,33.7301168,-117.8284869
+106301379,West Anaheim Medical Center,Orange,Prime Healthcare Services,2023,200-299,Investor Owned,Urban,Non-Teaching,25304,24.0,33.8253585,-117.9948797,Yes,No,1054.3333333333333,5,33.8253585,-117.9948797
+106304113,Children's Hospital at Mission,Orange,No System,2023,50-99,Nonprofit,Urban,Non-Teaching,11497,69.0,33.560996,-117.665455,No,No,166.6231884057971,2,33.560996,-117.665455
+106304409,Kaiser Foundation Hospital – Orange County – Anaheim,Orange,Kaiser Foundation Hospitals,2023,200-299,Nonprofit,Urban,Teaching,116353,72.0,33.8520187,-117.8441075,No,No,1616.013888888889,5,33.8520187,-117.8441075
+106310791,Sutter Auburn Faith Hospital,Placer,Sutter Health,2023,50-99,Nonprofit,Urban,Non-Teaching,28270,14.0,38.9452952,-121.1006825,No,Yes,2019.2857142857142,2,38.9452952,-121.1006825
+106314024,Kaiser Foundation Hospital – Roseville,Placer,Kaiser Foundation Hospitals,2023,300-499,Nonprofit,Urban,Non-Teaching,125394,64.0,38.7458732,-121.2486483,No,No,1959.28125,6,38.7458732,-121.2486483
+106320859,Eastern Plumas Hospital – Portola Campus,Plumas,No System,2023,1-49,Government,Frontier,Non-Teaching,3718,3.0,39.805736,-120.462946,Yes,Yes,1239.3333333333333,1,39.805736,-120.462946
+106321016,Seneca District Hospital,Plumas,No System,2023,1-49,Government,Frontier,Non-Teaching,2615,2.0,40.3059655,-121.2340758,Yes,Yes,1307.5,1,40.3059655,-121.2340758
+106331152,Corona Regional Medical Center – Main,Riverside,"Universal Health Services, Inc.",2023,150-199,Investor Owned,Urban,Non-Teaching,47337,30.0,33.872931,-117.5683132,No,Yes,1577.9,4,33.872931,-117.5683132
+106331164,Desert Regional Medical Center,Riverside,Tenet Healthcare Corporation,2023,300-499,Investor Owned,Urban,Non-Teaching,53891,27.0,33.8386098,-116.5431987,No,Yes,1995.962962962963,6,33.8386098,-116.5431987
+106331194,Hemet Global Medical Center,Riverside,"KPC Healthcare, Inc.",2023,300-499,Investor Owned,Urban,Non-Teaching,40855,29.0,33.7503708,-116.9601303,Yes,Yes,1408.7931034482758,6,33.7503708,-116.9601303
+106331293,Doctors Hospital of Riverside,Riverside,No System,2023,150-199,Investor Owned,Urban,Non-Teaching,47923,41.0,33.9268483,-117.439062,No,Yes,1168.8536585365853,4,33.9268483,-117.439062
+106331312,Riverside Community Hospital,Riverside,HCA Healthcare Corporation,2023,500+,Investor Owned,Urban,Teaching,87345,64.0,33.9772213,-117.3815694,Yes,Yes,1364.765625,7,33.9772213,-117.3815694
+106331326,San Gorgonio Memorial Hospital,Riverside,No System,2023,50-99,Government,Urban,Non-Teaching,38185,28.0,33.9321189,-116.9454756,No,Yes,1363.75,2,33.9321189,-116.9454756
+106334018,Menifee Global Medical Center,Riverside,"KPC Healthcare, Inc.",2023,50-99,Investor Owned,Urban,Non-Teaching,16133,12.0,33.7189951,-117.1681517,Yes,No,1344.4166666666667,2,33.7189951,-117.1681517
+106334025,Kaiser Foundation Hospital – Riverside,Riverside,Kaiser Foundation Hospitals,2023,200-299,Nonprofit,Urban,Non-Teaching,58863,41.0,33.9049289,-117.4692142,No,Yes,1435.6829268292684,5,33.9049289,-117.4692142
+106334048,Kaiser Foundation Hospital – Moreno Valley,Riverside,Kaiser Foundation Hospitals,2023,100-149,Nonprofit,Urban,Non-Teaching,51767,26.0,33.8967156,-117.1862588,No,Yes,1991.0384615384614,3,33.8967156,-117.1862588
+106334068,Southwest Healthcare Rancho Springs Hospital,Riverside,"Universal Health Services, Inc.",2023,100-149,Investor Owned,Urban,Non-Teaching,95797,53.0,33.5590999,-117.1839646,No,Yes,1807.4905660377358,3,33.5590999,-117.1839646
+106334564,Temecula Valley Hospital,Riverside,"Universal Health Services, Inc.",2023,100-149,Investor Owned,Urban,Non-Teaching,36299,21.0,33.480114,-117.1068419,No,No,1728.5238095238096,3,33.480114,-117.1068419
+106334589,Loma Linda University Medical Center – Murrieta,Riverside,Loma Linda University,2023,100-149,Nonprofit,Urban,Non-Teaching,46810,37.0,33.6147303,-117.1698557,No,Yes,1265.1351351351352,3,33.6147303,-117.1698557
+106340913,Kaiser Foundation Hospital – Sacramento,Sacramento,Kaiser Foundation Hospitals,2023,200-299,Nonprofit,Urban,Teaching,99973,59.0,38.6019048,-121.3924641,No,No,1694.457627118644,5,38.6019048,-121.3924641
+106340947,Mercy General Hospital,Sacramento,Dignity Health,2023,300-499,Nonprofit,Urban,Non-Teaching,33543,20.0,38.5707065,-121.4528888,No,No,1677.15,6,38.5707065,-121.4528888
+106340950,Mercy San Juan Medical Center,Sacramento,Dignity Health,2023,300-499,Nonprofit,Urban,Non-Teaching,56462,31.0,38.6693075,-121.3136404,No,No,1821.3548387096773,6,38.6693075,-121.3136404
+106340951,Methodist Hospital of Sacramento,Sacramento,Dignity Health,2023,300-499,Nonprofit,Urban,Non-Teaching,48515,29.0,38.4631026,-121.4163317,No,No,1672.9310344827586,6,38.4631026,-121.4163317
+106341006,UC Davis Medical Center,Sacramento,University of California,2023,500+,Government,Urban,Teaching,68326,78.0,38.5544352,-121.4554222,No,No,875.974358974359,7,38.5544352,-121.4554222
+106341051,Sutter Medical Center – Sacramento,Sacramento,Sutter Health,2023,500+,Nonprofit,Urban,Non-Teaching,90939,50.0,38.5709021,-121.4694505,No,No,1818.78,7,38.5709021,-121.4694505
+106342344,Kaiser Foundation Hospital – South Sacramento,Sacramento,Kaiser Foundation Hospitals,2023,200-299,Nonprofit,Urban,Teaching,107243,53.0,38.470327,-121.423072,No,No,2023.4528301886792,5,38.470327,-121.423072
+106344029,Mercy Hospital of Folsom,Sacramento,Dignity Health,2023,100-149,Nonprofit,Urban,Non-Teaching,42886,25.0,38.6705076,-121.1461155,No,No,1715.44,3,38.6705076,-121.1461155
+106350784,Hazel Hawkins Memorial Hospital,San Benito,No System,2023,50-99,Government,Rural,Non-Teaching,22750,18.0,36.8338985,-121.3861055,Yes,No,1263.888888888889,2,36.8338985,-121.3861055
+106361110,Bear Valley Community Hospital,San Bernardino,No System,2023,1-49,Government,Rural,Non-Teaching,11418,7.0,34.2464896,-116.888387,Yes,Yes,1631.142857142857,1,34.2464896,-116.888387
+106361144,Chino Valley Medical Center,San Bernardino,Prime Healthcare Services,2023,100-149,Investor Owned,Urban,Non-Teaching,35712,15.0,34.0255159,-117.6860029,No,No,2380.8,3,34.0255159,-117.6860029
+106361166,Montclair Hospital Medical Center,San Bernardino,Prime Healthcare Services,2023,100-149,Investor Owned,Urban,Non-Teaching,23098,12.0,34.0787364,-117.6960075,No,Yes,1924.8333333333333,3,34.0787364,-117.6960075
+106361223,Kaiser Foundation Hospital – Fontana,San Bernardino,Kaiser Foundation Hospitals,2023,300-499,Nonprofit,Urban,Teaching,146799,92.0,34.0734623,-117.434366,Yes,No,1595.641304347826,6,34.0734623,-117.434366
+106361266,Mountains Community Hospital,San Bernardino,No System,2023,1-49,Government,Rural,Non-Teaching,8274,6.0,34.2654348,-117.1685596,Yes,Yes,1379.0,1,34.2654348,-117.1685596
+106361318,San Antonio Regional Hospital,San Bernardino,No System,2023,300-499,Nonprofit,Urban,Non-Teaching,80169,52.0,34.101896,-117.637482,No,Yes,1541.7115384615386,6,34.101896,-117.637482
+106361323,Community Hospital of San Bernardino,San Bernardino,Dignity Health,2023,300-499,Nonprofit,Urban,Non-Teaching,55451,18.0,34.1313185,-117.3209714,No,Yes,3080.6111111111113,6,34.1313185,-117.3209714
+106361339,St. Bernardine Medical Center,San Bernardino,Dignity Health,2023,300-499,Nonprofit,Urban,Teaching,62646,24.0,34.1350497,-117.2772597,No,Yes,2610.25,6,34.1350497,-117.2772597
+106361343,Providence St. Mary Medical Center,San Bernardino,Providence St. Joseph Health,2023,200-299,Nonprofit,Urban,Non-Teaching,69276,43.0,34.5416051,-117.2656827,No,Yes,1611.0697674418604,5,34.5416051,-117.2656827
+106361370,Victor Valley Global Medical Center,San Bernardino,"KPC Healthcare, Inc.",2023,100-149,Investor Owned,Urban,Non-Teaching,31692,16.0,34.5275301,-117.2934438,Yes,Yes,1980.75,3,34.5275301,-117.2934438
+106361458,Colorado River Medical Center,San Bernardino,No System,2023,1-49,Nonprofit,Frontier,Non-Teaching,4913,4.0,34.8331484,-114.6175395,Yes,Yes,1228.25,1,34.8331484,-114.6175395
+106362041,Hi-Desert Medical Center,San Bernardino,Tenet Healthcare Corporation,2023,150-199,Investor Owned,Rural,Non-Teaching,23277,14.0,34.1317727,-116.2741896,Yes,Yes,1662.642857142857,4,34.1317727,-116.2741896
+106364144,Desert Valley Hospital,San Bernardino,Prime Healthcare Services,2023,100-149,Investor Owned,Urban,Non-Teaching,37600,21.0,34.4722857,-117.2980128,Yes,Yes,1790.4761904761904,3,34.4722857,-117.2980128
+106364430,Barstow Community Hospital,San Bernardino,No System,2023,1-49,Investor Owned,Rural,Non-Teaching,26615,16.0,34.8921713,-117.0166969,Yes,Yes,1663.4375,1,34.8921713,-117.0166969
+106370028,Kaiser Foundation Hospital – San Marcos,San Diego,Kaiser Foundation Hospitals,2023,150-199,Nonprofit,Urban,Non-Teaching,14965,39.0,33.1298157,-117.1702328,No,No,383.71794871794873,4,33.1298157,-117.1702328
+106370689,Sharp Coronado Hospital and Healthcare Center,San Diego,Sharp Healthcare,2023,50-99,Nonprofit,Urban,Non-Teaching,26681,15.0,32.6944471,-117.168661,No,Yes,1778.7333333333333,2,32.6944471,-117.168661
+106370694,Sharp Memorial Hospital,San Diego,Sharp Healthcare,2023,500+,Nonprofit,Urban,Non-Teaching,80990,64.0,32.7995207,-117.1546027,No,No,1265.46875,7,32.7995207,-117.1546027
+106370714,Grossmont Hospital,San Diego,Sharp Healthcare,2023,500+,Nonprofit,Urban,Non-Teaching,89114,74.0,32.7807472,-117.007184,No,Yes,1204.2432432432433,7,32.7807472,-117.007184
+106370730,Kaiser Foundation Hospital – San Diego – Zion,San Diego,Kaiser Foundation Hospitals,2023,300-499,Nonprofit,Urban,Teaching,117520,114.0,32.7916133,-117.0954049,No,No,1030.877192982456,6,32.7916133,-117.0954049
+106370744,Scripps Mercy Hospital,San Diego,Scripps Health,2023,300-499,Nonprofit,Urban,Teaching,102135,78.0,32.7511432,-117.1608129,No,No,1309.423076923077,6,32.7511432,-117.1608129
+106370759,Paradise Valley Hospital,San Diego,Prime Healthcare Services,2023,200-299,Investor Owned,Urban,Non-Teaching,17043,20.0,32.6853667,-117.0820744,Yes,Yes,852.15,5,32.6853667,-117.0820744
+106370771,Scripps Memorial Hospital – La Jolla,San Diego,Scripps Health,2023,300-499,Nonprofit,Urban,Non-Teaching,40287,47.0,32.8851544,-117.2255383,No,No,857.1702127659574,6,32.8851544,-117.2255383
+106370780,Tri-City Medical Center,San Diego,No System,2023,300-499,Government,Urban,Non-Teaching,38732,40.0,33.1856484,-117.2904359,No,No,968.3,6,33.1856484,-117.2904359
+106370782,UC San Diego Health Hillcrest – Hillcrest Medical Center,San Diego,University of California,2023,300-499,Government,Urban,Teaching,61989,86.0,32.7542698,-117.166135,No,No,720.8023255813954,6,32.7542698,-117.166135
+106370875,Sharp Chula Vista Medical Center,San Diego,Sharp Healthcare,2023,300-499,Nonprofit,Urban,Non-Teaching,67436,48.0,32.6196499,-117.0232636,No,No,1404.9166666666667,6,32.6196499,-117.0232636
+106371394,Scripps Memorial Hospital – Encinitas,San Diego,Scripps Health,2023,150-199,Nonprofit,Urban,Non-Teaching,49014,38.0,33.0375151,-117.2842364,No,No,1289.842105263158,4,33.0375151,-117.2842364
+106380857,Kaiser Foundation Hospital – San Francisco,San Francisco,Kaiser Foundation Hospitals,2023,200-299,Nonprofit,Urban,Teaching,33126,30.0,37.7826471,-122.4432378,No,No,1104.2,5,37.7826471,-122.4432378
+106380933,California Pacific Medical Center – Davies Campus Hospital,San Francisco,Sutter Health,2023,200-299,Nonprofit,Urban,Non-Teaching,11200,12.0,37.768222,-122.4345926,No,No,933.3333333333334,5,37.768222,-122.4345926
+106380939,Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,San Francisco,No System,2023,300-499,Government,Urban,Teaching,45390,59.0,37.7555919,-122.405629,No,No,769.3220338983051,6,37.7555919,-122.405629
+106380960,UC San Francisco Health – Saint Francis Hospital,San Francisco,Dignity Health,2023,200-299,Nonprofit,Urban,Non-Teaching,20887,19.0,37.7893799,-122.4167294,No,No,1099.3157894736842,5,37.7893799,-122.4167294
+106380965,UC San Francisco Health – St. Mary's Hospital,San Francisco,Dignity Health,2023,200-299,Nonprofit,Urban,Teaching,11793,12.0,37.7740749,-122.4538893,No,No,982.75,5,37.7740749,-122.4538893
+106382715,Chinese Hospital,San Francisco,No System,2023,50-99,Nonprofit,Urban,Non-Teaching,6321,7.0,37.7955406,-122.4091299,No,Yes,903.0,2,37.7955406,-122.4091299
+106384176,California Pacific Medical Center – Van Ness Campus,San Francisco,Sutter Health,2023,200-299,Nonprofit,Urban,Non-Teaching,30400,35.0,37.7860406,-122.4227467,No,Yes,868.5714285714286,5,37.7860406,-122.4227467
+106384202,California Pacific Medical Center – Mission Bernal Campus,San Francisco,Sutter Health,2023,100-149,Nonprofit,Urban,Non-Teaching,19202,16.0,37.7478141,-122.42152,No,No,1200.125,3,37.7478141,-122.42152
+106390923,Adventist Health Lodi Memorial,San Joaquin,Adventist Health Systems,2023,150-199,Nonprofit,Urban,Non-Teaching,53139,28.0,38.1214679,-121.2869098,No,Yes,1897.8214285714287,4,38.1214679,-121.2869098
+106391010,San Joaquin General Hospital,San Joaquin,No System,2023,150-199,Government,Urban,Non-Teaching,42755,24.0,37.8861911,-121.2834797,Yes,Yes,1781.4583333333333,4,37.8861911,-121.2834797
+106391042,St. Joseph's Medical Center of Stockton,San Joaquin,Dignity Health,2023,300-499,Investor Owned,Urban,Teaching,82844,62.0,37.9698831,-121.2886669,Yes,Yes,1336.1935483870968,6,37.9698831,-121.2886669
+106391056,Sutter Tracy Community Hospital,San Joaquin,Sutter Health,2023,50-99,Nonprofit,Urban,Non-Teaching,34216,14.0,37.7440949,-121.4338723,No,Yes,2444.0,2,37.7440949,-121.4338723
+106392287,Doctors Hospital of Manteca,San Joaquin,Tenet Healthcare Corporation,2023,50-99,Investor Owned,Urban,Non-Teaching,27977,11.0,37.801463,-121.1969169,No,Yes,2543.3636363636365,2,37.801463,-121.1969169
+106394009,Kaiser Foundation Hospital – Manteca,San Joaquin,Kaiser Foundation Hospitals,2023,50-99,Nonprofit,Urban,Non-Teaching,110121,46.0,37.7982558,-121.2462723,No,Yes,2393.9347826086955,2,37.7982558,-121.2462723
+106400466,Marian Regional Medical Center – Arroyo Grande,San Luis Obispo,Dignity Health,2023,50-99,Nonprofit,Rural,Non-Teaching,27691,18.0,35.1136376,-120.5907722,No,Yes,1538.388888888889,2,35.1136376,-120.5907722
+106400480,French Hospital Medical Center,San Luis Obispo,Dignity Health,2023,50-99,Nonprofit,Rural,Non-Teaching,22308,22.0,35.2779659,-120.6512671,No,Yes,1014.0,2,35.2779659,-120.6512671
+106400524,Adventist Health Sierra Vista,San Luis Obispo,Tenet Healthcare Corporation,2023,150-199,Investor Owned,Rural,Non-Teaching,20432,11.0,35.2922411,-120.665834,No,Yes,1857.4545454545455,4,35.2922411,-120.665834
+106400548,Adventist Health Twin Cities,San Luis Obispo,Tenet Healthcare Corporation,2023,100-149,Investor Owned,Urban,Non-Teaching,28067,23.0,35.5560403,-120.7190446,No,No,1220.304347826087,3,35.5560403,-120.7190446
+106410782,San Mateo Medical Center,San Mateo,No System,2023,150-199,Government,Urban,Non-Teaching,36783,15.0,37.5307466,-122.2991144,No,No,2452.2,4,37.5307466,-122.2991144
+106410806,Kaiser Foundation Hospital – South San Francisco,San Mateo,Kaiser Foundation Hospitals,2023,100-149,Nonprofit,Urban,Non-Teaching,45814,19.0,37.659206,-122.4391154,No,No,2411.2631578947367,3,37.659206,-122.4391154
+106410817,AHMC Seton Medical Center,San Mateo,Verity Health System,2023,200-299,Investor Owned,Urban,Non-Teaching,13380,22.0,37.6796714,-122.4743635,No,No,608.1818181818181,5,37.6796714,-122.4743635
+106410852,Mills-Peninsula Medical Center,San Mateo,Sutter Health,2023,200-299,Nonprofit,Urban,Non-Teaching,43257,26.0,37.5918122,-122.3833296,No,No,1663.7307692307693,5,37.5918122,-122.3833296
+106410891,Sequoia Hospital,San Mateo,Dignity Health,2023,150-199,Nonprofit,Urban,Non-Teaching,17158,17.0,37.479843,-122.2546654,No,No,1009.2941176470588,4,37.479843,-122.2546654
+106414139,Kaiser Foundation Hospital – Redwood City,San Mateo,Kaiser Foundation Hospitals,2023,150-199,Nonprofit,Urban,Non-Teaching,35961,24.0,37.4891882,-122.2242762,No,No,1498.375,4,37.4891882,-122.2242762
+106420483,Goleta Valley Cottage Hospital,Santa Barbara,Cottage Health,2023,1-49,Nonprofit,Urban,Non-Teaching,24528,20.0,34.4329289,-119.8107229,No,Yes,1226.4,1,34.4329289,-119.8107229
+106420514,Santa Barbara Cottage Hospital,Santa Barbara,Cottage Health,2023,300-499,Nonprofit,Urban,Teaching,43220,40.0,34.4295556,-119.7243225,No,No,1080.5,6,34.4295556,-119.7243225
+106420522,Santa Ynez Valley Cottage Hospital,Santa Barbara,Cottage Health,2023,1-49,Nonprofit,Rural,Non-Teaching,10143,8.0,34.602352,-120.1256952,No,Yes,1267.875,1,34.602352,-120.1256952
+106430763,El Camino Health,Santa Clara,No System,2023,200-299,Nonprofit,Urban,Non-Teaching,63151,40.0,37.3692312,-122.079404,No,No,1578.775,5,37.3692312,-122.079404
+106430779,Good Samaritan Hospital – San Jose,Santa Clara,HCA Healthcare Corporation,2023,300-499,Investor Owned,Urban,Non-Teaching,53511,35.0,37.2531634,-121.9474221,No,No,1528.8857142857144,6,37.2531634,-121.9474221
+106430837,O'Connor Hospital,Santa Clara,Verity Health System,2023,300-499,Government,Urban,Non-Teaching,57935,25.0,37.3276348,-121.9388672,No,No,2317.4,6,37.3276348,-121.9388672
+106430905,Stanford Health Care,Santa Clara,Stanford Medicine,2023,200-299,Nonprofit,Urban,Teaching,75391,84.0,37.4330746,-122.1750485,No,No,897.5119047619048,5,37.4330746,-122.1750485
+106431506,Kaiser Foundation Hospital – San Jose,Santa Clara,Kaiser Foundation Hospitals,2023,200-299,Nonprofit,Urban,Teaching,73413,36.0,37.2398041,-121.8002512,No,No,2039.25,5,37.2398041,-121.8002512
+106434138,St. Louise Regional Hospital,Santa Clara,Verity Health System,2023,50-99,Government,Rural,Non-Teaching,37712,8.0,37.0367167,-121.5711608,No,No,4714.0,2,37.0367167,-121.5711608
+106434153,Kaiser Foundation Hospital – Santa Clara,Santa Clara,Kaiser Foundation Hospitals,2023,300-499,Nonprofit,Urban,Teaching,74166,30.0,37.3362374,-121.998538,No,No,2472.2,6,37.3362374,-121.998538
+106440755,Dominican Hospital,Santa Cruz,Dignity Health,2023,200-299,Nonprofit,Urban,Non-Teaching,39333,24.0,36.989473,-121.9844119,No,Yes,1638.875,5,36.989473,-121.9844119
+106444013,Watsonville Community Hospital,Santa Cruz,No System,2023,100-149,Nonprofit,Urban,Non-Teaching,30482,12.0,36.927119,-121.7925372,Yes,No,2540.1666666666665,3,36.927119,-121.7925372
+106450936,Mayers Memorial Hospital,Shasta,No System,2023,100-149,Government,Frontier,Non-Teaching,3921,6.0,41.0236764,-121.4240081,Yes,Yes,653.5,3,41.0236764,-121.4240081
+106450940,Shasta Regional Medical Center,Shasta,Prime Healthcare Services,2023,200-299,Investor Owned,Urban,Non-Teaching,23917,27.0,40.5855541,-122.3877573,No,Yes,885.8148148148148,5,40.5855541,-122.3877573
+106450949,Mercy Medical Center – Redding,Shasta,Dignity Health,2023,200-299,Nonprofit,Urban,Non-Teaching,44717,26.0,40.5719533,-122.3952328,No,Yes,1719.8846153846155,5,40.5719533,-122.3952328
+106470871,Mercy Medical Center Mt. Shasta,Siskiyou,Dignity Health,2023,1-49,Nonprofit,Rural,Non-Teaching,9972,11.0,41.3187005,-122.3209208,Yes,Yes,906.5454545454545,1,41.3187005,-122.3209208
+106480989,Kaiser Foundation Hospital & Rehab Center – Vallejo,Solano,Kaiser Foundation Hospitals,2023,200-299,Nonprofit,Urban,Non-Teaching,59280,51.0,38.1259988,-122.2472204,No,No,1162.3529411764705,5,38.1259988,-122.2472204
+106481094,Sutter Solano Medical Center,Solano,Sutter Health,2023,100-149,Nonprofit,Urban,Non-Teaching,26970,13.0,38.1312888,-122.2373373,No,No,2074.6153846153848,3,38.1312888,-122.2373373
+106481357,NorthBay Medical Center,Solano,No System,2023,150-199,Nonprofit,Urban,Non-Teaching,60171,45.0,38.2620091,-122.0473434,No,No,1337.1333333333334,4,38.2620091,-122.0473434
+106484044,Kaiser Foundation Hospital – Vacaville,Solano,Kaiser Foundation Hospitals,2023,150-199,Nonprofit,Urban,Non-Teaching,53345,27.0,38.3884817,-121.9392573,No,No,1975.7407407407406,4,38.3884817,-121.9392573
+106491001,Petaluma Valley Hospital,Sonoma,Providence St. Joseph Health,2023,50-99,Investor Owned,Urban,Non-Teaching,17078,15.0,38.25459,-122.6316537,No,No,1138.5333333333333,2,38.25459,-122.6316537
+106491064,Providence Santa Rosa Memorial Hospital – Montgomery,Sonoma,Providence St. Joseph Health,2023,200-299,Investor Owned,Urban,Non-Teaching,37181,26.0,38.4437589,-122.7011068,No,Yes,1430.0384615384614,5,38.4437589,-122.7011068
+106491076,Sonoma Valley Hospital,Sonoma,No System,2023,50-99,Government,Urban,Non-Teaching,8916,8.0,38.2881503,-122.4656876,Yes,No,1114.5,2,38.2881503,-122.4656876
+106494019,Kaiser Foundation Hospital – Santa Rosa,Sonoma,Kaiser Foundation Hospitals,2023,150-199,Nonprofit,Urban,Non-Teaching,59695,30.0,38.4720582,-122.7285573,No,Yes,1989.8333333333333,4,38.4720582,-122.7285573
+106494106,Sutter Santa Rosa Regional Hospital,Sonoma,Sutter Health,2023,100-149,Nonprofit,Urban,Non-Teaching,33327,34.0,38.495316,-122.7523667,No,Yes,980.2058823529412,3,38.495316,-122.7523667
+106500852,Doctors Medical Center,Stanislaus,Tenet Healthcare Corporation,2023,300-499,Investor Owned,Urban,Non-Teaching,78133,33.0,37.66575,-120.9973109,No,No,2367.6666666666665,6,37.66575,-120.9973109
+106500867,Emanuel Medical Center,Stanislaus,Tenet Healthcare Corporation,2023,200-299,Investor Owned,Urban,Non-Teaching,53627,32.0,37.5115162,-120.8378339,No,No,1675.84375,5,37.5115162,-120.8378339
+106500939,Memorial Medical Center – Modesto,Stanislaus,Sutter Health,2023,300-499,Nonprofit,Urban,Non-Teaching,72883,38.0,37.6686472,-120.9746362,No,No,1917.9736842105262,6,37.6686472,-120.9746362
+106500967,Oak Valley Hospital District,Stanislaus,No System,2023,1-49,Government,Rural,Non-Teaching,19293,12.0,37.7568551,-120.8612483,Yes,No,1607.75,1,37.7568551,-120.8612483
+106521041,St. Elizabeth Community Hospital,Tehama,Dignity Health,2023,50-99,Nonprofit,Rural,Non-Teaching,29405,14.0,40.1484537,-122.2196519,Yes,Yes,2100.3571428571427,2,40.1484537,-122.2196519
+106540734,Kaweah Health Medical Center,Tulare,Kaweah Health,2023,300-499,Government,Urban,Teaching,71708,73.0,36.328572,-119.2949582,Yes,Yes,982.3013698630137,6,36.328572,-119.2949582
+106540798,Sierra View Medical Center,Tulare,No System,2023,150-199,Government,Rural,Non-Teaching,32931,24.0,36.0690832,-119.0273534,Yes,Yes,1372.125,4,36.0690832,-119.0273534
+106540816,Adventist Health Tulare,Tulare,Adventist Health Systems,2023,100-149,Nonprofit,Rural,Non-Teaching,30538,15.0,36.2211168,-119.3385333,Yes,Yes,2035.8666666666666,3,36.2211168,-119.3385333
+106554011,Adventist Health Sonora – Greenley,Tuolumne,Adventist Health Systems,2023,50-99,Nonprofit,Rural,Non-Teaching,31354,18.0,37.9773582,-120.3711158,Yes,Yes,1741.888888888889,2,37.9773582,-120.3711158
+106560481,Ventura County Medical Center,Ventura,County of Ventura,2023,150-199,Government,Urban,Non-Teaching,45896,35.0,34.2773769,-119.2532347,No,No,1311.3142857142857,4,34.2773769,-119.2532347
+106560492,Los Robles Hospital & Medical Center,Ventura,HCA Healthcare Corporation,2023,300-499,Investor Owned,Urban,Non-Teaching,42325,27.0,34.2067796,-118.8830898,No,No,1567.5925925925926,6,34.2067796,-118.8830898
+106560501,Community Memorial Hospital – Ojai,Ventura,No System,2023,1-49,Nonprofit,Rural,Non-Teaching,8546,6.0,34.4428996,-119.2643205,No,No,1424.3333333333333,1,34.4428996,-119.2643205
+106560508,St. John's Hospital Camarillo,Ventura,Dignity Health,2023,100-149,Nonprofit,Urban,Non-Teaching,24983,14.0,34.2443679,-119.0195219,No,No,1784.5,3,34.2443679,-119.0195219
+106560525,Adventist Health Simi Valley,Ventura,Adventist Health Systems,2023,100-149,Nonprofit,Urban,Non-Teaching,38886,18.0,34.2891994,-118.7449442,No,No,2160.3333333333335,3,34.2891994,-118.7449442
+106560529,St. John's Regional Medical Center,Ventura,Dignity Health,2023,200-299,Nonprofit,Urban,Non-Teaching,49925,31.0,34.2163022,-119.1558102,No,Yes,1610.483870967742,5,34.2163022,-119.1558102
+106571086,Woodland Memorial Hospital,Yolo,Dignity Health,2023,100-149,Nonprofit,Urban,Non-Teaching,25430,22.0,38.6640259,-121.792082,No,Yes,1155.909090909091,3,38.6640259,-121.792082
+106574010,Sutter Davis Hospital,Yolo,Sutter Health,2023,50-99,Nonprofit,Urban,Non-Teaching,32229,23.0,38.5626885,-121.7706836,No,Yes,1401.2608695652175,2,38.5626885,-121.7706836
+106580996,Adventist Health and Rideout,Yuba,Adventist Health Systems,2023,200-299,Nonprofit,Rural,Non-Teaching,60131,44.0,39.1381501,-121.5942332,Yes,Yes,1366.6136363636363,5,39.1381501,-121.5942332
+106010735,Alameda Hospital,Alameda,Alameda Health System,2021,100-149,Government,Urban,Non-Teaching,11185,12.0,37.76266,-122.253991,No,No,932.0833333333334,3,37.7626798,-122.2541062
+106010739,Alta Bates Summit Medical Center – Alta Bates Campus,Alameda,Sutter Health,2021,300-499,Nonprofit,Urban,Non-Teaching,27058,22.0,37.85645,-122.25743,No,No,1229.909090909091,6,37.8556279,-122.2575014
+106010776,UC San Francisco Benioff Children's Hospital Oakland,Alameda,No System,2021,150-199,Nonprofit,Urban,Teaching,26503,40.0,37.83722,-122.26747,No,No,662.575,4,37.8369379,-122.2672306
+106010846,Highland Hospital,Alameda,Alameda Health System,2021,200-299,Government,Urban,Non-Teaching,64069,65.0,37.79925,-122.23138,No,No,985.6769230769231,5,37.7990596,-122.2325063
+106010937,Alta Bates Summit Medical Center,Alameda,Sutter Health,2021,300-499,Nonprofit,Urban,Non-Teaching,28307,30.0,37.82106,-122.26257,No,No,943.5666666666667,6,37.821175,-122.26304
+106010987,Washington Hospital – Fremont,Alameda,No System,2021,300-499,Government,Urban,Non-Teaching,37111,39.0,37.55847,-121.98006,No,No,951.5641025641025,6,37.5572736,-121.9779535
+106014132,Kaiser Foundation Hospital – Fremont,Alameda,Kaiser Foundation Hospitals,2021,100-149,Nonprofit,Urban,Non-Teaching,32627,18.0,37.55055,-121.97483,No,No,1812.611111111111,3,37.5521617,-121.9754891
+106014233,Eden Medical Center,Alameda,Sutter Health,2021,100-149,Nonprofit,Urban,Non-Teaching,27691,22.0,37.6983769,-122.0874055,No,No,1258.6818181818182,3,37.6982572,-122.0901455
+106014326,Kaiser Foundation Hospital – Oakland/Richmond,Alameda,Kaiser Foundation Hospitals,2021,300-499,Nonprofit,Urban,Non-Teaching,101906,80.0,37.82402,-122.25791,No,No,1273.825,6,37.8237432,-122.258237
+106014337,Kaiser Foundation Hospital – San Leandro,Alameda,Kaiser Foundation Hospitals,2021,200-299,Nonprofit,Urban,Non-Teaching,59463,40.0,37.70611,-122.16917,No,No,1486.575,5,37.706844,-122.1642717
+106034002,Sutter Amador Hospital,Amador,Sutter Health,2021,50-99,Nonprofit,Rural,Non-Teaching,22161,14.0,38.34743,-120.77272,Yes,No,1582.9285714285713,2,38.3504826,-120.764465
+106040802,Orchard Hospital,Butte,No System,2021,100-149,Nonprofit,Rural,Non-Teaching,9092,5.0,39.36701,-121.68955,Yes,Yes,1818.4,3,39.3675541,-121.6894693
+106040937,Oroville Hospital,Butte,No System,2021,100-149,Nonprofit,Rural,Non-Teaching,7811,14.0,39.50485,-121.5428,Yes,Yes,557.9285714285714,3,39.50485,-121.5428
+106040962,Enloe Medical Center– Esplanade,Butte,No System,2021,200-299,Nonprofit,Urban,Non-Teaching,51963,50.0,39.74226,-121.84918,No,Yes,1039.26,5,39.7425867,-121.849727
+106050932,Mark Twain Medical Center,Calaveras,Dignity Health,2021,1-49,Nonprofit,Rural,Non-Teaching,9930,8.0,38.19057,-120.67095,Yes,Yes,1241.25,1,38.1906896,-120.6701903
+106070934,Sutter Delta Medical Center,Contra Costa,Sutter Health,2021,100-149,Nonprofit,Urban,Non-Teaching,35375,30.0,37.98222,-121.8054,No,No,1179.1666666666667,3,37.9827593,-121.8029656
+106070988,John Muir Medical Center – Walnut Creek Campus,Contra Costa,John Muir Health,2021,500+,Nonprofit,Urban,Non-Teaching,40015,44.0,37.91304,-122.040781,No,No,909.4318181818181,7,37.9128769,-122.0409498
+106070990,Kaiser Foundation Hospital – Walnut Creek,Contra Costa,Kaiser Foundation Hospitals,2021,200-299,Nonprofit,Urban,Non-Teaching,55604,52.0,37.8923,-122.05828,No,No,1069.3076923076924,5,37.8915065,-122.0580137
+106071018,John Muir Medical Center – Concord Campus,Contra Costa,John Muir Health,2021,200-299,Nonprofit,Urban,Non-Teaching,45748,32.0,37.98615,-122.03874,No,No,1429.625,5,37.9851726,-122.0336632
+106074017,San Ramon Regional Medical Center,Contra Costa,Tenet Healthcare Corporation,2021,100-149,Investor Owned,Urban,Non-Teaching,14729,12.0,37.77549,-121.95884,No,No,1227.4166666666667,3,37.7752251,-121.958176
+106074097,Kaiser Foundation Hospital – Antioch,Contra Costa,Kaiser Foundation Hospitals,2021,150-199,Nonprofit,Urban,Non-Teaching,57989,36.0,37.951975,-121.776854,No,No,1610.8055555555557,4,37.9508418,-121.7749286
+106084001,Sutter Coast Hospital,Del Norte,Sutter Health,2021,1-49,Nonprofit,Rural,Non-Teaching,13440,11.0,41.77278,-124.19514,Yes,Yes,1221.8181818181818,1,41.7736588,-124.1942469
+106090793,Barton Memorial Hospital,El Dorado,No System,2021,100-149,Nonprofit,Rural,Non-Teaching,15036,12.0,38.91228,-119.99758,Yes,Yes,1253.0,3,38.9115633,-119.9965447
+106090933,Marshall Medical Center,El Dorado,No System,2021,100-149,Nonprofit,Rural,Non-Teaching,24028,24.0,38.72556,-120.79092,No,No,1001.1666666666666,3,38.72467,-120.7916501
+106100005,Clovis Community Medical Center,Fresno,No System,2021,300-499,Nonprofit,Rural,Non-Teaching,46564,59.0,36.83745,-119.66072,Yes,Yes,789.2203389830509,6,36.8388469,-119.6611827
+106100697,Coalinga Regional Medical Center,Fresno,No System,2021,100-149,Investor Owned,Rural,Non-Teaching,6307,9.0,36.15152,-120.34035,Yes,Yes,700.7777777777778,3,36.1519675,-120.3409955
+106100717,Community Regional Medical Center – Fresno,Fresno,No System,2021,500+,Nonprofit,Urban,Teaching,74382,73.0,36.74252,-119.784071,Yes,No,1018.931506849315,7,36.7426302,-119.7847479
+106100797,Adventist Health Reedley,Fresno,Adventist Health Systems,2021,1-49,Nonprofit,Rural,Non-Teaching,32277,10.0,36.60789,-119.45145,Yes,Yes,3227.7,1,36.6081792,-119.4531164
+106100899,Saint Agnes Medical Center,Fresno,No System,2021,300-499,Nonprofit,Urban,Non-Teaching,56514,48.0,36.8370782,-119.7649963,No,Yes,1177.375,6,36.8342377,-119.763776
+106104062,Kaiser Foundation Hospital – Fresno,Fresno,Kaiser Foundation Hospitals,2021,150-199,Nonprofit,Urban,Non-Teaching,41406,21.0,36.84246,-119.7832,No,Yes,1971.7142857142858,4,36.8424331,-119.780467
+106110889,Glenn Medical Center,Glenn,No System,2021,1-49,Investor Owned,Frontier,Non-Teaching,5165,4.0,39.52055,-122.20791,Yes,Yes,1291.25,1,39.5213602,-122.2084362
+106121031,Jerold Phelps Community Hospital,Humboldt,No System,2021,1-49,Government,Frontier,Non-Teaching,2837,2.0,40.10195,-123.79286,Yes,Yes,1418.5,1,40.10195,-123.79286
+106121051,Providence Redwood Memorial Hospital,Humboldt,Providence St. Joseph Health,2021,1-49,Investor Owned,Rural,Non-Teaching,9741,8.0,40.58267,-124.13549,Yes,Yes,1217.625,1,40.5823366,-124.1363749
+106130760,Pioneers Memorial Healthcare District,Imperial,No System,2021,100-149,Government,Rural,Non-Teaching,36732,16.0,32.96003,-115.55183,Yes,Yes,2295.75,3,32.96003,-115.55183
+106141273,Northern Inyo Hospital,Inyo,No System,2021,1-49,Government,Rural,Non-Teaching,6864,7.0,37.36207,-118.40756,No,No,980.5714285714286,1,37.3619709,-118.4061853
+106141338,Southern Inyo Hospital,Inyo,No System,2021,1-49,Government,Frontier,Non-Teaching,1552,2.0,36.6084,-118.05816,Yes,No,776.0,1,36.6084,-118.05816
+106150722,Bakersfield Memorial Hospital,Kern,Dignity Health,2021,300-499,Nonprofit,Urban,Non-Teaching,69996,36.0,35.39051,-119.00658,No,Yes,1944.3333333333333,6,35.3928295,-119.0061541
+106150736,Kern Medical Center,Kern,No System,2021,200-299,Government,Urban,Teaching,44933,30.0,35.380833,-118.967222,No,Yes,1497.7666666666667,5,35.3828699,-118.970257
+106150737,Kern Valley Healthcare District,Kern,No System,2021,100-149,Government,Frontier,Non-Teaching,6067,8.0,35.63486,-118.40509,Yes,Yes,758.375,3,35.6352884,-118.4064635
+106150761,Mercy Hospital – Bakersfield,Kern,Dignity Health,2021,100-149,Nonprofit,Urban,Non-Teaching,61773,45.0,35.37323,-119.02715,No,Yes,1372.7333333333333,3,35.3728014,-119.0267624
+106150782,Ridgecrest Regional Hospital,Kern,No System,2021,50-99,Nonprofit,Rural,Non-Teaching,15239,12.0,35.6404,-117.66996,Yes,Yes,1269.9166666666667,2,35.6407445,-117.6711685
+106154168,Adventist Health Tehachapi Valley,Kern,Adventist Health Systems,2021,1-49,Nonprofit,Rural,Non-Teaching,17996,13.0,35.14302,-118.44924,Yes,Yes,1384.3076923076924,1,35.1476985,-118.4509007
+106164029,Adventist Health Hanford,Kings,Adventist Health Systems,2021,150-199,Nonprofit,Urban,Non-Teaching,80442,34.0,36.3256247,-119.6683912,Yes,Yes,2365.9411764705883,4,36.3232171,-119.667877
+106171049,Adventist Health Clearlake,Lake,Adventist Health Systems,2021,1-49,Nonprofit,Rural,Non-Teaching,17699,8.0,38.93619,-122.6202,Yes,Yes,2212.375,1,38.9356064,-122.6202387
+106171395,Sutter Lakeside Hospital,Lake,Sutter Health,2021,1-49,Nonprofit,Rural,Non-Teaching,16923,12.0,39.10232,-122.91003,Yes,Yes,1410.25,1,39.1047366,-122.9065198
+106184008,Banner Lassen Medical Center,Lassen,No System,2021,1-49,Nonprofit,Rural,Non-Teaching,9633,8.0,40.42306,-120.64609,Yes,Yes,1204.125,1,40.4368049,-120.6280337
+106190017,Alhambra Hospital Medical Center,Los Angeles,No System,2021,100-149,Investor Owned,Urban,Non-Teaching,12846,8.0,34.08988,-118.1449,No,No,1605.75,3,34.08988,-118.1449
+106190034,Antelope Valley Hospital,Los Angeles,No System,2021,300-499,Government,Urban,Non-Teaching,95597,28.0,34.6878,-118.157981,No,Yes,3414.1785714285716,6,34.6882482,-118.1591527
+106190053,St. Mary Medical Center – Long Beach,Los Angeles,Dignity Health,2021,300-499,Nonprofit,Urban,Non-Teaching,34440,26.0,33.7802376,-118.1866412,No,No,1324.6153846153845,6,33.7805577,-118.1862725
+106190110,Southern California Hospital at Culver City,Los Angeles,Alta Hospitals System,2021,300-499,Investor Owned,Urban,Non-Teaching,11776,17.0,34.0231953,-118.3969429,No,No,692.7058823529412,6,34.0232001,-118.3969128
+106190125,California Hospital Medical Center – Los Angeles,Los Angeles,Dignity Health,2021,300-499,Nonprofit,Urban,Non-Teaching,53538,35.0,34.03721,-118.26551,No,No,1529.6571428571428,6,34.0373967,-118.2657271
+106190148,Centinela Hospital Medical Center,Los Angeles,Prime Healthcare Services,2021,300-499,Investor Owned,Urban,Non-Teaching,33915,51.0,33.94917,-118.34788,Yes,No,665.0,6,33.94917,-118.34788
+106190170,Children's Hospital of Los Angeles,Los Angeles,No System,2021,300-499,Nonprofit,Urban,Teaching,62048,36.0,34.0978692,-118.2909547,Yes,No,1723.5555555555557,6,34.0981547,-118.2907791
+106190197,Community Hospital of Huntington Park,Los Angeles,Avanti Hospitals,2021,50-99,Investor Owned,Urban,Non-Teaching,27785,14.0,33.98929,-118.22466,No,Yes,1984.642857142857,2,33.9892161,-118.2245406
+106190200,San Gabriel Valley Medical Center,Los Angeles,"AHMC Healthcare, Inc.",2021,200-299,Investor Owned,Urban,Non-Teaching,16648,12.0,34.1024,-118.10503,No,No,1387.3333333333333,5,34.100917,-118.1055926
+106190240,Lakewood Regional Medical Center,Los Angeles,Tenet Healthcare Corporation,2021,150-199,Investor Owned,Urban,Non-Teaching,32654,14.0,33.859731,-118.1492012,No,No,2332.4285714285716,4,33.8596883,-118.1482913
+106190243,PIH Health Hospital – Downey,Los Angeles,No System,2021,150-199,Nonprofit,Urban,Non-Teaching,39153,34.0,33.93515,-118.13196,No,No,1151.5588235294117,4,33.9341503,-118.1317434
+106190256,East Los Angeles Doctors Hospital,Los Angeles,Avanti Hospitals,2021,100-149,Investor Owned,Urban,Non-Teaching,9319,8.0,34.02383,-118.18377,Yes,Yes,1164.875,3,34.02383,-118.18377
+106190280,Encino Hospital Medical Center,Los Angeles,Prime Healthcare Services,2021,100-149,Investor Owned,Urban,Non-Teaching,6354,9.0,34.15686,-118.48662,No,No,706.0,3,34.1574278,-118.4870017
+106190298,Emanate Health Foothill Presbyterian Hospital,Los Angeles,No System,2021,100-149,Nonprofit,Urban,Non-Teaching,28511,22.0,34.13384,-117.87244,No,No,1295.9545454545455,3,34.1327654,-117.8713435
+106190315,Garfield Medical Center,Los Angeles,"AHMC Healthcare, Inc.",2021,200-299,Investor Owned,Urban,Non-Teaching,13559,21.0,34.06826,-118.12302,No,No,645.6666666666666,5,34.0680808,-118.1231228
+106190352,Greater El Monte Community Hospital,Los Angeles,"AHMC Healthcare, Inc.",2021,100-149,Investor Owned,Urban,Non-Teaching,16357,9.0,34.04827,-118.04257,Yes,No,1817.4444444444443,3,34.04827,-118.04257
+106190382,Hollywood Presbyterian Medical Center,Los Angeles,No System,2021,300-499,Investor Owned,Urban,Non-Teaching,23943,20.0,34.09557,-118.29163,Yes,No,1197.15,6,34.09557,-118.29163
+106190385,Providence Holy Cross Medical Center,Los Angeles,Providence St. Joseph Health,2021,300-499,Nonprofit,Urban,Non-Teaching,65999,32.0,34.2791,-118.45951,No,No,2062.46875,6,34.279782,-118.4599806
+106190392,PIH Health Good Samaritan Hospital,Los Angeles,No System,2021,300-499,Nonprofit,Urban,Non-Teaching,31973,12.0,34.05324,-118.26522,No,No,2664.4166666666665,6,34.054581,-118.2654301
+106190413,Emanate Health Inter – Community Hospital,Los Angeles,No System,2021,150-199,Investor Owned,Urban,Non-Teaching,26205,21.0,34.08993,-117.89264,No,No,1247.857142857143,4,34.088233,-117.8937523
+106190422,Torrance Memorial Medical Center,Los Angeles,Cedars-Sinai Health System,2021,500+,Nonprofit,Urban,Non-Teaching,56910,29.0,33.8119157,-118.3434945,Yes,No,1962.4137931034484,7,33.8134694,-118.3441879
+106190429,Kaiser Foundation Hospital – Los Angeles,Los Angeles,Kaiser Foundation Hospitals,2021,300-499,Nonprofit,Urban,Teaching,52338,57.0,34.09875,-118.295371,Yes,No,918.2105263157895,6,34.0989348,-118.2940915
+106190432,Kaiser Foundation Hospital – Panorama City,Los Angeles,Kaiser Foundation Hospitals,2021,200-299,Nonprofit,Urban,Non-Teaching,58192,41.0,34.2198,-118.43103,No,No,1419.3170731707316,5,34.218819,-118.430039
+106190434,Kaiser Foundation Hospital – West LA,Los Angeles,Kaiser Foundation Hospitals,2021,200-299,Nonprofit,Urban,Non-Teaching,71033,53.0,34.03793,-118.37568,No,No,1340.245283018868,5,34.0386088,-118.3743452
+106190500,Cedars – Sinai Marina Del Rey Hospital,Los Angeles,Cedars-Sinai Health System,2021,100-149,Nonprofit,Urban,Non-Teaching,29332,18.0,33.98125,-118.43971,No,No,1629.5555555555557,3,33.9821449,-118.4392262
+106190517,Providence Cedars – Sinai Tarzana Medical Center,Los Angeles,Providence St. Joseph Health,2021,200-299,Investor Owned,Urban,Non-Teaching,31794,15.0,34.17067,-118.532001,No,No,2119.6,5,34.17067,-118.532001
+106190521,Memorial Hospital of Gardena,Los Angeles,Avanti Hospitals,2021,150-199,Investor Owned,Urban,Non-Teaching,27216,10.0,33.89246,-118.29493,Yes,No,2721.6,4,33.8929929,-118.2950049
+106190522,Glendale Memorial Hospital and Health Center,Los Angeles,Dignity Health,2021,300-499,Nonprofit,Urban,Non-Teaching,22627,16.0,34.1284,-118.25769,No,No,1414.1875,6,34.1280862,-118.2569564
+106190525,MemorialCare Long Beach Medical Center,Los Angeles,MemorialCare,2021,300-499,Nonprofit,Urban,Teaching,71793,64.0,33.80801,-118.1852,No,No,1121.765625,6,33.80801,-118.1852
+106190529,USC Arcadia Hospital,Los Angeles,No System,2021,300-499,Nonprofit,Urban,Non-Teaching,31517,26.0,34.13603,-118.03879,No,No,1212.1923076923076,6,34.1351456,-118.0415283
+106190547,Monterey Park Hospital,Los Angeles,"AHMC Healthcare, Inc.",2021,100-149,Investor Owned,Urban,Non-Teaching,13907,6.0,34.05308,-118.13665,No,No,2317.8333333333335,3,34.0495478,-118.1383262
+106190555,Cedars – Sinai Medical Center,Los Angeles,Cedars-Sinai Health System,2021,500+,Nonprofit,Urban,Teaching,55305,51.0,34.07681,-118.38061,No,No,1084.4117647058824,7,34.07681,-118.38061
+106190631,PIH Health Hospital – Whittier,Los Angeles,No System,2021,500+,Nonprofit,Urban,Non-Teaching,51182,61.0,33.9697943,-118.049255,No,No,839.0491803278688,7,33.9690304,-118.0490717
+106190636,Emanate Health Queen of the Valley Hospital,Los Angeles,No System,2021,300-499,Investor Owned,Urban,Non-Teaching,45425,24.0,34.06242,-117.94528,No,No,1892.7083333333333,6,34.0632472,-117.9446757
+106190673,San Dimas Community Hospital,Los Angeles,Prime Healthcare Services,2021,100-149,Investor Owned,Urban,Non-Teaching,11204,8.0,34.099076,-117.834328,No,No,1400.5,3,34.097533,-117.8345314
+106190680,Providence Little Company of Mary Medical Center – San Pedro,Los Angeles,Providence St. Joseph Health,2021,200-299,Nonprofit,Urban,Non-Teaching,29882,16.0,33.737939,-118.303893,No,No,1867.625,5,33.7382583,-118.305098
+106190687,Santa Monica – UCLA Medical Center and Orthopaedic Hospital,Los Angeles,University of California,2021,200-299,Government,Urban,Non-Teaching,30384,21.0,34.027539,-118.486123,No,No,1446.857142857143,5,34.027539,-118.486123
+106190696,Pacifica Hospital of the Valley,Los Angeles,No System,2021,200-299,Investor Owned,Urban,Non-Teaching,6834,7.0,34.24088,-118.39555,Yes,No,976.2857142857143,5,34.2405259,-118.3960912
+106190708,Sherman Oaks Hospital,Los Angeles,Prime Healthcare Services,2021,150-199,Nonprofit,Urban,Non-Teaching,19004,12.0,34.15995,-118.4488,No,No,1583.6666666666667,4,34.160328,-118.449161
+106190754,St. Francis Medical Center,Los Angeles,Verity Health System,2021,300-499,Investor Owned,Urban,Non-Teaching,39926,42.0,33.93085,-118.20415,Yes,Yes,950.6190476190476,6,33.930445,-118.2034141
+106190756,Providence Saint John's Health Center,Los Angeles,Providence St. Joseph Health,2021,200-299,Nonprofit,Urban,Non-Teaching,20264,27.0,34.029804,-118.478668,No,No,750.5185185185185,5,34.0307739,-118.4796445
+106190758,Providence Saint Joseph Medical Center,Los Angeles,Providence St. Joseph Health,2021,300-499,Nonprofit,Urban,Non-Teaching,41545,24.0,34.15486,-118.32655,No,No,1731.0416666666667,6,34.1572533,-118.3292851
+106190766,Coast Plaza Hospital,Los Angeles,Avanti Hospitals,2021,100-149,Investor Owned,Urban,Non-Teaching,8975,8.0,33.91255,-118.09915,No,No,1121.875,3,33.9127726,-118.0988257
+106190796,Ronald Reagan UCLA Medical Center,Los Angeles,University of California,2021,300-499,Government,Urban,Teaching,32425,41.0,34.068889,-118.445,No,No,790.8536585365854,6,34.068889,-118.445
+106190812,Valley Presbyterian Hospital,Los Angeles,No System,2021,300-499,Nonprofit,Urban,Non-Teaching,39113,33.0,34.19396,-118.4632,No,No,1185.2424242424242,6,34.1943415,-118.4627736
+106190818,USC Verdugo Hills Hospital,Los Angeles,University of Southern California,2021,150-199,Nonprofit,Urban,Non-Teaching,20106,13.0,34.20557,-118.2152,No,No,1546.6153846153845,4,34.20557,-118.2152
+106190859,West Hills Hospital and Medical Center,Los Angeles,HCA Healthcare Corporation,2021,200-299,Investor Owned,Urban,Non-Teaching,39834,30.0,34.20337,-118.62939,No,No,1327.8,5,34.2030563,-118.6298005
+106190878,Adventist Health White Memorial,Los Angeles,Adventist Health Systems,2021,300-499,Nonprofit,Urban,Teaching,41645,28.0,34.05085,-118.21691,No,No,1487.3214285714287,6,34.0492967,-118.2171632
+106190949,Henry Mayo Newhall Hospital,Los Angeles,No System,2021,300-499,Nonprofit,Urban,Non-Teaching,47498,30.0,34.39545,-118.55476,No,No,1583.2666666666667,6,34.3984849,-118.5532663
+106191227,Los Angeles County/Harbor – UCLA Medical Center,Los Angeles,County of Los Angeles,2021,300-499,Government,Urban,Teaching,65830,73.0,33.83155,-118.29353,Yes,No,901.7808219178082,6,33.8302832,-118.2919779
+106191231,Los Angeles County Olive View – UCLA Medical Center,Los Angeles,County of Los Angeles,2021,300-499,Government,Urban,Teaching,47648,51.0,34.32418,-118.45255,No,No,934.2745098039215,6,34.3258634,-118.4457148
+106191450,Kaiser Foundation Hospital – Woodland Hills,Los Angeles,Kaiser Foundation Hospitals,2021,200-299,Nonprofit,Urban,Non-Teaching,38035,38.0,34.17198,-118.58829,No,No,1000.921052631579,5,34.1734332,-118.590208
+106196035,Kaiser Foundation Hospital – Baldwin Park,Los Angeles,Kaiser Foundation Hospitals,2021,200-299,Nonprofit,Urban,Non-Teaching,62392,30.0,34.06348,-117.986,Yes,No,2079.733333333333,5,34.0656148,-117.9855472
+106196403,Kaiser Foundation Hospital – Downey,Los Angeles,Kaiser Foundation Hospitals,2021,300-499,Nonprofit,Urban,Non-Teaching,91585,80.0,33.9171234,-118.1290216,No,No,1144.8125,6,33.9194557,-118.129002
+106196405,Palmdale Regional Medical Center,Los Angeles,"Universal Health Services, Inc.",2021,150-199,Investor Owned,Urban,Non-Teaching,50893,35.0,34.5843754,-118.1443461,Yes,Yes,1454.0857142857142,4,34.5828766,-118.1448173
+106201281,Madera Community Hospital,Madera,No System,2021,100-149,Nonprofit,Rural,Non-Teaching,28244,16.0,36.94538,-120.0447,Yes,Yes,1765.25,3,36.94538,-120.0447
+106204019,Valley Children's Hospital,Madera,No System,2021,300-499,Nonprofit,Rural,Non-Teaching,73970,38.0,36.88439,-119.80042,Yes,Yes,1946.578947368421,6,36.8840366,-119.8003218
+106210992,Kaiser Foundation Hospital – San Rafael,Marin,Kaiser Foundation Hospitals,2021,100-149,Nonprofit,Urban,Non-Teaching,24875,15.0,38.0041,-122.55376,No,No,1658.3333333333333,3,38.0047045,-122.5546812
+106211006,MarinHealth Medical Center,Marin,No System,2021,300-499,Nonprofit,Urban,Non-Teaching,27014,31.0,37.94651,-122.53715,No,No,871.4193548387096,6,37.9466692,-122.5358494
+106214034,Novato Community Hospital,Marin,Sutter Health,2021,1-49,Nonprofit,Urban,Non-Teaching,12954,9.0,38.09827,-122.55974,No,No,1439.3333333333333,1,38.0987422,-122.5606439
+106220733,John C Fremont Healthcare District,Mariposa,No System,2021,1-49,Government,Rural,Non-Teaching,5610,4.0,37.50045,-119.97698,Yes,Yes,1402.5,1,37.5001808,-119.9774497
+106231013,Adventist Health Mendocino Coast,Mendocino,No System,2021,1-49,Nonprofit,Rural,Non-Teaching,8568,6.0,39.4326,-123.80068,Yes,Yes,1428.0,1,39.4313778,-123.800388
+106231396,Adventist Health Ukiah Valley,Mendocino,Adventist Health Systems,2021,50-99,Nonprofit,Rural,Non-Teaching,25550,19.0,39.15216,-123.202741,Yes,Yes,1344.7368421052631,2,39.1530652,-123.2028906
+106234038,Adventist Health Howard Memorial,Mendocino,Adventist Health Systems,2021,1-49,Nonprofit,Rural,Non-Teaching,12451,9.0,39.39927,-123.35486,Yes,Yes,1383.4444444444443,1,39.3897448,-123.3387068
+106240924,Memorial Hospital Los Banos,Merced,Sutter Health,2021,1-49,Nonprofit,Rural,Non-Teaching,22799,10.0,37.06273,-120.86147,Yes,Yes,2279.9,1,37.0640913,-120.8592853
+106240942,Mercy Medical Center – Merced,Merced,Dignity Health,2021,150-199,Nonprofit,Urban,Non-Teaching,52175,26.0,37.3402309,-120.4651815,Yes,Yes,2006.7307692307693,4,37.3400786,-120.4672896
+106254005,Modoc Medical Center,Modoc,No System,2021,50-99,Government,Frontier,Non-Teaching,4834,4.0,41.48747,-120.55285,Yes,Yes,1208.5,2,41.48747,-120.55285
+106270744,Community Hospital of the Monterey Peninsula,Monterey,No System,2021,200-299,Nonprofit,Urban,Non-Teaching,36853,30.0,36.59827,-121.92488,No,No,1228.4333333333334,5,36.5785609,-121.9134061
+106270777,George L. Mee Memorial Hospital,Monterey,No System,2021,50-99,Nonprofit,Rural,Non-Teaching,12392,6.0,36.2071,-121.1325,No,Yes,2065.3333333333335,2,36.2060986,-121.1328496
+106270875,Salinas Valley Health Medical Center,Monterey,No System,2021,200-299,Government,Urban,Non-Teaching,41458,16.0,36.65909,-121.646291,Yes,Yes,2591.125,5,36.6594918,-121.6456896
+106281047,Providence Queen of the Valley Medical Center,Napa,Providence St. Joseph Health,2021,150-199,Investor Owned,Urban,Non-Teaching,21616,18.0,38.32363,-122.296,No,No,1200.888888888889,4,38.324482,-122.2971094
+106281078,Adventist Health St. Helena,Napa,Adventist Health Systems,2021,100-149,Nonprofit,Rural,Non-Teaching,5566,8.0,38.53937349,-122.47300302,No,No,695.75,3,38.5425498,-122.4748281
+106291023,Sierra Nevada Memorial Hospital,Nevada,Dignity Health,2021,100-149,Nonprofit,Rural,Non-Teaching,21800,18.0,39.22808,-121.047201,Yes,Yes,1211.111111111111,3,39.2278824,-121.0459398
+106291053,Tahoe Forest Hospital,Nevada,No System,2021,50-99,Government,Rural,Non-Teaching,11799,15.0,39.324536,-120.201516,Yes,Yes,786.6,2,39.324536,-120.201516
+106300032,Children's Hospital of Orange County,Orange,No System,2021,300-499,Nonprofit,Urban,Non-Teaching,72260,35.0,33.7807511,-117.8654488,No,No,2064.5714285714284,6,33.7809877,-117.8657581
+106300225,MemorialCare Orange Coast Medical Center,Orange,MemorialCare,2021,200-299,Nonprofit,Urban,Non-Teaching,26525,26.0,33.70162,-117.95524,No,No,1020.1923076923077,5,33.70162,-117.95524
+106301205,Hoag Memorial Hospital Presbyterian,Orange,Providence St. Joseph Health,2021,300-499,Nonprofit,Urban,Non-Teaching,94986,88.0,33.62526,-117.92949,No,No,1079.3863636363637,6,33.6247365,-117.9297422
+106301209,Huntington Beach Hospital,Orange,Prime Healthcare Services,2021,100-149,Investor Owned,Urban,Non-Teaching,11486,12.0,33.70442,-117.98895,No,No,957.1666666666666,3,33.7037638,-117.9864477
+106301234,La Palma Intercommunity Hospital,Orange,Prime Healthcare Services,2021,100-149,Investor Owned,Urban,Non-Teaching,10763,13.0,33.84755,-118.0373,No,No,827.9230769230769,3,33.847375,-118.0381861
+106301248,Los Alamitos Medical Center,Orange,Tenet Healthcare Corporation,2021,150-199,Investor Owned,Urban,Non-Teaching,23672,23.0,33.80327,-118.0674,No,No,1029.2173913043478,4,33.8042516,-118.0675424
+106301262,Providence Mission Hospital,Orange,Providence St. Joseph Health,2021,300-499,Nonprofit,Urban,Non-Teaching,33336,43.0,33.56279,-117.66768,No,No,775.2558139534884,6,33.56279,-117.66768
+106301279,UC Irvine Medical Center,Orange,University of California,2021,300-499,Government,Urban,Teaching,37922,44.0,33.7879885,-117.8901339,Yes,No,861.8636363636364,6,33.7871265,-117.8883391
+106301283,Garden Grove Hospital and Medical Center,Orange,Prime Healthcare Services,2021,150-199,Investor Owned,Urban,Non-Teaching,18089,12.0,33.7745089,-117.9130315,Yes,No,1507.4166666666667,4,33.7750066,-117.9129079
+106301317,MemorialCare Saddleback Medical Center,Orange,MemorialCare,2021,200-299,Nonprofit,Urban,Non-Teaching,27072,31.0,33.60802,-117.70825,No,No,873.2903225806451,5,33.60802,-117.70825
+106301337,Providence Mission Hospital – Laguna Beach,Orange,Providence St. Joseph Health,2021,150-199,Nonprofit,Urban,Non-Teaching,13630,20.0,33.4997391,-117.7422502,No,No,681.5,4,33.5002569,-117.7419417
+106301340,Providence St. Joseph Hospital,Orange,Providence St. Joseph Health,2021,300-499,Nonprofit,Urban,Non-Teaching,58831,56.0,33.7823,-117.86516,No,No,1050.5535714285713,6,33.7823,-117.86516
+106301342,Providence St. Jude Medical Center,Orange,Providence St. Joseph Health,2021,300-499,Nonprofit,Urban,Non-Teaching,49213,36.0,33.89349,-117.92851,No,No,1367.0277777777778,6,33.8943501,-117.92786
+106301357,Foothill Regional Medical Center,Orange,Alta Hospitals System,2021,150-199,Investor Owned,Urban,Non-Teaching,3854,8.0,33.73119,-117.82903,No,No,481.75,4,33.7301168,-117.8284869
+106301379,West Anaheim Medical Center,Orange,Prime Healthcare Services,2021,200-299,Investor Owned,Urban,Non-Teaching,22101,24.0,33.82482,-117.99492,Yes,No,920.875,5,33.8253585,-117.9948797
+106301566,Orange County Global Medical Center,Orange,"KPC Healthcare, Inc.",2021,200-299,Investor Owned,Urban,Non-Teaching,16282,16.0,33.75361,-117.83398,No,No,1017.625,5,33.75361,-117.83398
+106304409,Kaiser Foundation Hospital – Orange County – Anaheim,Orange,Kaiser Foundation Hospitals,2021,200-299,Nonprofit,Urban,Non-Teaching,106217,72.0,33.85442,-117.84399,No,No,1475.236111111111,5,33.8520187,-117.8441075
+106310791,Sutter Auburn Faith Hospital,Placer,Sutter Health,2021,50-99,Nonprofit,Urban,Non-Teaching,24386,14.0,38.94432,-121.09943,No,Yes,1741.857142857143,2,38.9452952,-121.1006825
+106311000,Sutter Roseville Medical Center,Placer,Sutter Health,2021,300-499,Nonprofit,Urban,Non-Teaching,65472,69.0,38.76515,-121.24922,No,No,948.8695652173913,6,38.76515,-121.24922
+106314024,Kaiser Foundation Hospital – Roseville,Placer,Kaiser Foundation Hospitals,2021,300-499,Nonprofit,Urban,Non-Teaching,112736,61.0,38.74636,-121.25107,No,No,1848.1311475409836,6,38.7458732,-121.2486483
+106320859,Eastern Plumas Hospital – Portola Campus,Plumas,No System,2021,1-49,Government,Frontier,Non-Teaching,3306,3.0,39.80517,-120.462591,Yes,Yes,1102.0,1,39.805736,-120.462946
+106321016,Seneca District Hospital,Plumas,No System,2021,1-49,Government,Frontier,Non-Teaching,2315,2.0,40.30547,-121.23396,Yes,Yes,1157.5,1,40.3059655,-121.2340758
+106331152,Corona Regional Medical Center – Main,Riverside,"Universal Health Services, Inc.",2021,150-199,Investor Owned,Urban,Non-Teaching,39709,30.0,33.8733354,-117.5668015,No,Yes,1323.6333333333334,4,33.872931,-117.5683132
+106331216,John F. Kennedy Memorial Hospital,Riverside,Tenet Healthcare Corporation,2021,100-149,Investor Owned,Urban,Non-Teaching,42578,12.0,33.70677,-116.23391,No,Yes,3548.1666666666665,3,33.70677,-116.23391
+106331288,Palo Verde Hospital,Riverside,No System,2021,1-49,Government,Rural,Non-Teaching,7458,7.0,33.61315,-114.5956,Yes,Yes,1065.4285714285713,1,33.61315,-114.5956
+106331293,Doctors Hospital of Riverside,Riverside,No System,2021,150-199,Investor Owned,Urban,Non-Teaching,39784,41.0,33.92573,-117.43996,No,Yes,970.3414634146342,4,33.9268483,-117.439062
+106331312,Riverside Community Hospital,Riverside,HCA Healthcare Corporation,2021,300-499,Investor Owned,Urban,Non-Teaching,73328,64.0,33.97641,-117.37997,Yes,Yes,1145.75,6,33.9772213,-117.3815694
+106331326,San Gorgonio Memorial Hospital,Riverside,No System,2021,50-99,Government,Urban,Non-Teaching,34357,28.0,33.9317494,-116.9459031,No,Yes,1227.0357142857142,2,33.9321189,-116.9454756
+106334018,Menifee Global Medical Center,Riverside,"KPC Healthcare, Inc.",2021,50-99,Investor Owned,Urban,Non-Teaching,13544,12.0,33.72146,-117.15691,Yes,No,1128.6666666666667,2,33.7189951,-117.1681517
+106334025,Kaiser Foundation Hospital – Riverside,Riverside,Kaiser Foundation Hospitals,2021,200-299,Nonprofit,Urban,Non-Teaching,49479,41.0,33.9063,-117.47082,No,Yes,1206.8048780487804,5,33.9049289,-117.4692142
+106334048,Kaiser Foundation Hospital – Moreno Valley,Riverside,Kaiser Foundation Hospitals,2021,50-99,Nonprofit,Urban,Non-Teaching,44180,26.0,33.89553,-117.18677,No,Yes,1699.2307692307693,2,33.8967156,-117.1862588
+106334068,Southwest Healthcare System – Murrieta,Riverside,"Universal Health Services, Inc.",2021,100-149,Investor Owned,Urban,Non-Teaching,81500,53.0,33.55788,-117.18488,No,Yes,1537.7358490566037,3,33.5590999,-117.1839646
+106334487,Riverside University Health System – Medical Center,Riverside,No System,2021,300-499,Government,Urban,Teaching,68827,44.0,33.91187,-117.19525,No,Yes,1564.25,6,33.91187,-117.19525
+106334564,Temecula Valley Hospital,Riverside,"Universal Health Services, Inc.",2021,100-149,Investor Owned,Urban,Non-Teaching,33450,21.0,33.4795943,-117.1048018,No,No,1592.857142857143,3,33.480114,-117.1068419
+106340913,Kaiser Foundation Hospital – Sacramento,Sacramento,Kaiser Foundation Hospitals,2021,200-299,Nonprofit,Urban,Non-Teaching,89816,59.0,38.60197,-121.39232,No,No,1522.3050847457628,5,38.6019048,-121.3924641
+106340947,Mercy General Hospital,Sacramento,Dignity Health,2021,300-499,Nonprofit,Urban,Non-Teaching,28298,20.0,38.56955,-121.45271,No,No,1414.9,6,38.5707065,-121.4528888
+106340951,Methodist Hospital of Sacramento,Sacramento,Dignity Health,2021,300-499,Nonprofit,Urban,Non-Teaching,41824,29.0,38.46416,-121.41744,No,No,1442.2068965517242,6,38.4631026,-121.4163317
+106341006,UC Davis Medical Center,Sacramento,University of California,2021,500+,Government,Urban,Teaching,56983,66.0,38.55438,-121.45738,No,No,863.3787878787879,7,38.5544352,-121.4554222
+106341051,Sutter Medical Center – Sacramento,Sacramento,Sutter Health,2021,500+,Nonprofit,Urban,Non-Teaching,77547,54.0,38.57045,-121.47028,No,No,1436.0555555555557,7,38.5709021,-121.4694505
+106342344,Kaiser Foundation Hospital – South Sacramento,Sacramento,Kaiser Foundation Hospitals,2021,200-299,Nonprofit,Urban,Non-Teaching,102274,53.0,38.47144,-121.42409,No,No,1929.698113207547,5,38.470327,-121.423072
+106350784,Hazel Hawkins Memorial Hospital,San Benito,No System,2021,50-99,Government,Rural,Non-Teaching,19915,18.0,36.835,-121.38609,Yes,No,1106.388888888889,2,36.8338985,-121.3861055
+106361110,Bear Valley Community Hospital,San Bernardino,No System,2021,1-49,Government,Rural,Non-Teaching,10835,7.0,34.24728,-116.88988,Yes,Yes,1547.857142857143,1,34.2464896,-116.888387
+106361144,Chino Valley Medical Center,San Bernardino,Prime Healthcare Services,2021,100-149,Investor Owned,Urban,Non-Teaching,29540,15.0,34.02626,-117.687,No,No,1969.3333333333333,3,34.0255159,-117.6860029
+106361166,Montclair Hospital Medical Center,San Bernardino,Prime Healthcare Services,2021,100-149,Investor Owned,Urban,Non-Teaching,20376,12.0,34.07774,-117.69603,No,Yes,1698.0,3,34.0787364,-117.6960075
+106361223,Kaiser Foundation Hospital – Fontana,San Bernardino,Kaiser Foundation Hospitals,2021,300-499,Nonprofit,Urban,Non-Teaching,138112,92.0,34.0725,-117.43549,Yes,No,1501.2173913043478,6,34.0734623,-117.434366
+106361266,Mountains Community Hospital,San Bernardino,No System,2021,1-49,Government,Rural,Non-Teaching,7976,6.0,34.26583,-117.16716,Yes,Yes,1329.3333333333333,1,34.2654348,-117.1685596
+106361318,San Antonio Regional Hospital,San Bernardino,No System,2021,300-499,Nonprofit,Urban,Non-Teaching,68922,52.0,34.10056,-117.63828,No,Yes,1325.423076923077,6,34.101896,-117.637482
+106361323,Community Hospital of San Bernardino,San Bernardino,Dignity Health,2021,300-499,Nonprofit,Urban,Non-Teaching,49924,18.0,34.13138,-117.32245,No,Yes,2773.5555555555557,6,34.1313185,-117.3209714
+106361339,St. Bernardine Medical Center,San Bernardino,Dignity Health,2021,300-499,Nonprofit,Urban,Non-Teaching,51901,24.0,34.1341,-117.27865,No,Yes,2162.5416666666665,6,34.1350497,-117.2772597
+106361343,St. Mary Medical Center – Apple Valley,San Bernardino,Providence St. Joseph Health,2021,200-299,Nonprofit,Urban,Non-Teaching,52088,43.0,34.54053,-117.26535,No,Yes,1211.3488372093022,5,34.5416051,-117.2656827
+106361458,Colorado River Medical Center,San Bernardino,No System,2021,1-49,Nonprofit,Frontier,Non-Teaching,3766,4.0,34.8325,-114.61818,Yes,Yes,941.5,1,34.8331484,-114.6175395
+106362041,Hi-Desert Medical Center,San Bernardino,Tenet Healthcare Corporation,2021,150-199,Investor Owned,Rural,Non-Teaching,21254,16.0,34.13323,-116.27654,Yes,Yes,1328.375,4,34.1317727,-116.2741896
+106364144,Desert Valley Hospital,San Bernardino,Prime Healthcare Services,2021,100-149,Investor Owned,Urban,Non-Teaching,32220,22.0,34.47093,-117.29778,Yes,Yes,1464.5454545454545,3,34.4722857,-117.2980128
+106364430,Barstow Community Hospital,San Bernardino,No System,2021,1-49,Investor Owned,Rural,Non-Teaching,23000,16.0,34.8935263,-117.0168841,Yes,Yes,1437.5,1,34.8921713,-117.0166969
+106370689,Sharp Coronado Hospital and Healthcare Center,San Diego,Sharp Healthcare,2021,50-99,Nonprofit,Urban,Non-Teaching,18962,15.0,32.69427,-117.16808,No,Yes,1264.1333333333334,2,32.6944471,-117.168661
+106370714,Grossmont Hospital,San Diego,Sharp Healthcare,2021,500+,Nonprofit,Urban,Non-Teaching,82802,102.0,32.77963,-117.00924,No,Yes,811.7843137254902,7,32.7807472,-117.007184
+106370730,Kaiser Foundation Hospital – San Diego – Zion,San Diego,Kaiser Foundation Hospitals,2021,300-499,Nonprofit,Urban,Non-Teaching,108783,114.0,32.79287,-117.09447,No,No,954.2368421052631,6,32.7916133,-117.0954049
+106370744,Scripps Mercy Hospital,San Diego,Scripps Health,2021,300-499,Nonprofit,Urban,Teaching,90459,76.0,32.75128,-117.1609,No,No,1190.25,6,32.7511432,-117.1608129
+106370759,Paradise Valley Hospital,San Diego,Prime Healthcare Services,2021,200-299,Investor Owned,Urban,Non-Teaching,17090,20.0,32.6863293,-117.0830382,Yes,Yes,854.5,5,32.6853667,-117.0820744
+106370771,Scripps Memorial Hospital – La Jolla,San Diego,Scripps Health,2021,300-499,Nonprofit,Urban,Non-Teaching,33262,47.0,32.88506,-117.22279,No,No,707.7021276595744,6,32.8851544,-117.2255383
+106370780,Tri-City Medical Center,San Diego,No System,2021,300-499,Government,Urban,Non-Teaching,38112,40.0,33.18394,-117.29027,No,No,952.8,6,33.1856484,-117.2904359
+106370875,Sharp Chula Vista Medical Center,San Diego,Sharp Healthcare,2021,300-499,Nonprofit,Urban,Non-Teaching,59888,48.0,32.61909,-117.02488,No,No,1247.6666666666667,6,32.6196499,-117.0232636
+106370977,Palomar Medical Center Poway,San Diego,No System,2021,200-299,Government,Urban,Non-Teaching,25717,8.0,32.99563,-117.05784,No,No,3214.625,5,32.99563,-117.05784
+106371394,Scripps Memorial Hospital – Encinitas,San Diego,Scripps Health,2021,150-199,Nonprofit,Urban,Non-Teaching,38964,38.0,33.0363,-117.28495,No,No,1025.3684210526317,4,33.0375151,-117.2842364
+106380857,Kaiser Foundation Hospital – San Francisco,San Francisco,Kaiser Foundation Hospitals,2021,200-299,Nonprofit,Urban,Teaching,29199,26.0,37.78274,-122.44289,No,No,1123.0384615384614,5,37.7826471,-122.4432378
+106380933,California Pacific Medical Center – Davies Campus Hospital,San Francisco,Sutter Health,2021,200-299,Nonprofit,Urban,Non-Teaching,9591,12.0,37.7691,-122.43465,No,No,799.25,5,37.768222,-122.4345926
+106380939,Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,San Francisco,No System,2021,300-499,Government,Urban,Teaching,42809,59.0,37.75657,-122.40637,No,No,725.5762711864406,6,37.7555919,-122.405629
+106380960,Saint Francis Memorial Hospital,San Francisco,Dignity Health,2021,200-299,Nonprofit,Urban,Non-Teaching,18963,19.0,37.78917,-122.41695,No,No,998.0526315789474,5,37.7893799,-122.4167294
+106380965,St. Mary's Medical Center,San Francisco,Dignity Health,2021,200-299,Nonprofit,Urban,Teaching,10305,12.0,37.77408,-122.45441,No,No,858.75,5,37.7740749,-122.4538893
+106381154,UC San Francisco Medical Center,San Francisco,University of California,2021,500+,Government,Urban,Teaching,33076,52.0,37.7635148,-122.4576564,No,No,636.0769230769231,7,37.7635148,-122.4576564
+106382715,Chinese Hospital,San Francisco,No System,2021,50-99,Nonprofit,Urban,Non-Teaching,4954,7.0,37.79565,-122.40926,No,Yes,707.7142857142857,2,37.7955406,-122.4091299
+106384176,California Pacific Medical Center – Van Ness Campus,San Francisco,Sutter Health,2021,200-299,Nonprofit,Urban,Non-Teaching,22340,35.0,37.78584,-122.42175,No,Yes,638.2857142857143,5,37.7860406,-122.4227467
+106384202,California Pacific Medical Center – Mission Bernal Campus,San Francisco,Sutter Health,2021,100-149,Nonprofit,Urban,Non-Teaching,16302,16.0,37.74804,-122.42094,No,No,1018.875,3,37.7478141,-122.42152
+106390846,Dameron Hospital,San Joaquin,No System,2021,200-299,Nonprofit,Urban,Non-Teaching,28108,21.0,37.96125,-121.30067,Yes,Yes,1338.4761904761904,5,37.96125,-121.30067
+106390923,Adventist Health Lodi Memorial,San Joaquin,Adventist Health Systems,2021,150-199,Nonprofit,Urban,Non-Teaching,42735,28.0,38.12146,-121.2859,No,Yes,1526.25,4,38.1214679,-121.2869098
+106391010,San Joaquin General Hospital,San Joaquin,No System,2021,150-199,Government,Urban,Non-Teaching,37061,26.0,37.88594,-121.28918,Yes,Yes,1425.423076923077,4,37.8861911,-121.2834797
+106391042,St. Joseph's Medical Center of Stockton,San Joaquin,Dignity Health,2021,300-499,Investor Owned,Urban,Non-Teaching,67670,62.0,37.97075,-121.2891,Yes,Yes,1091.4516129032259,6,37.9698831,-121.2886669
+106391056,Sutter Tracy Community Hospital,San Joaquin,Sutter Health,2021,50-99,Nonprofit,Urban,Non-Teaching,25042,14.0,37.74366,-121.43482,No,Yes,1788.7142857142858,2,37.7440949,-121.4338723
+106392287,Doctors Hospital of Manteca,San Joaquin,Tenet Healthcare Corporation,2021,50-99,Investor Owned,Urban,Non-Teaching,23341,11.0,37.80111,-121.19746,No,Yes,2121.909090909091,2,37.801463,-121.1969169
+106394009,Kaiser Foundation Hospital – Manteca,San Joaquin,Kaiser Foundation Hospitals,2021,50-99,Nonprofit,Urban,Non-Teaching,93935,47.0,37.79736,-121.24614,No,Yes,1998.6170212765958,2,37.7982558,-121.2462723
+106400466,Marian Regional Medical Center – Arroyo Grande,San Luis Obispo,Dignity Health,2021,50-99,Nonprofit,Rural,Non-Teaching,22098,18.0,35.11369,-120.59147,No,Yes,1227.6666666666667,2,35.1136376,-120.5907722
+106400480,French Hospital Medical Center,San Luis Obispo,Dignity Health,2021,50-99,Nonprofit,Rural,Non-Teaching,18452,22.0,35.27801,-120.64977,No,Yes,838.7272727272727,2,35.2779659,-120.6512671
+106400524,Tenet Health Central Coast Sierra Vista Regional Medical Center,San Luis Obispo,Tenet Healthcare Corporation,2021,150-199,Investor Owned,Rural,Non-Teaching,18285,11.0,35.290986,-120.666309,No,Yes,1662.2727272727273,4,35.2922411,-120.665834
+106400548,Tenet Health Central Coast Twin Cities Community Hospital,San Luis Obispo,Tenet Healthcare Corporation,2021,100-149,Investor Owned,Urban,Non-Teaching,25557,23.0,35.5543,-120.71967,No,No,1111.1739130434783,3,35.5560403,-120.7190446
+106410782,San Mateo Medical Center,San Mateo,No System,2021,150-199,Government,Urban,Non-Teaching,28978,15.0,37.53017,-122.29951,No,No,1931.8666666666666,4,37.5307466,-122.2991144
+106410806,Kaiser Foundation Hospital – South San Francisco,San Mateo,Kaiser Foundation Hospitals,2021,100-149,Nonprofit,Urban,Non-Teaching,33048,19.0,37.65806,-122.43837,No,No,1739.3684210526317,3,37.659206,-122.4391154
+106410891,Sequoia Hospital,San Mateo,Dignity Health,2021,200-299,Nonprofit,Urban,Non-Teaching,12746,17.0,37.48129,-122.25377,No,No,749.7647058823529,5,37.479843,-122.2546654
+106414139,Kaiser Foundation Hospital – Redwood City,San Mateo,Kaiser Foundation Hospitals,2021,150-199,Nonprofit,Urban,Non-Teaching,28866,24.0,37.48967,-122.22463,No,No,1202.75,4,37.4891882,-122.2242762
+106420483,Goleta Valley Cottage Hospital,Santa Barbara,No System,2021,1-49,Nonprofit,Urban,Non-Teaching,18635,23.0,34.43336,-119.80929,No,Yes,810.2173913043479,1,34.4329289,-119.8107229
+106420491,Lompoc Valley Medical Center,Santa Barbara,No System,2021,50-99,Government,Rural,Non-Teaching,17508,10.0,34.639252,-120.4396497,No,Yes,1750.8,2,34.639252,-120.4396497
+106420493,Marian Regional Medical Center,Santa Barbara,Dignity Health,2021,200-299,Nonprofit,Urban,Non-Teaching,47657,41.0,34.95198,-120.41338,Yes,Yes,1162.3658536585365,5,34.95198,-120.41338
+106420514,Santa Barbara Cottage Hospital,Santa Barbara,No System,2021,300-499,Nonprofit,Urban,Non-Teaching,33909,41.0,34.42948,-119.72317,No,No,827.0487804878048,6,34.4295556,-119.7243225
+106420522,Santa Ynez Valley Cottage Hospital,Santa Barbara,No System,2021,1-49,Nonprofit,Rural,Non-Teaching,8465,8.0,34.60243,-120.12721,No,Yes,1058.125,1,34.602352,-120.1256952
+106430763,El Camino Health,Santa Clara,No System,2021,300-499,Nonprofit,Urban,Non-Teaching,47007,40.0,37.36779,-122.07801,No,No,1175.175,6,37.3692312,-122.079404
+106430779,Good Samaritan Hospital – San Jose,Santa Clara,HCA Healthcare Corporation,2021,300-499,Investor Owned,Urban,Non-Teaching,39734,35.0,37.25116,-121.9449,No,No,1135.2571428571428,6,37.2531634,-121.9474221
+106430837,O'Connor Hospital,Santa Clara,Verity Health System,2021,300-499,Government,Urban,Non-Teaching,39335,25.0,37.32714,-121.93727,No,No,1573.4,6,37.3276348,-121.9388672
+106431506,Kaiser Foundation Hospital – San Jose,Santa Clara,Kaiser Foundation Hospitals,2021,200-299,Nonprofit,Urban,Non-Teaching,58856,36.0,37.23924,-121.80269,No,No,1634.888888888889,5,37.2398041,-121.8002512
+106434138,St. Louise Regional Hospital,Santa Clara,Verity Health System,2021,50-99,Government,Rural,Non-Teaching,27007,8.0,37.03731,-121.57411,No,No,3375.875,2,37.0367167,-121.5711608
+106434153,Kaiser Foundation Hospital – Santa Clara,Santa Clara,Kaiser Foundation Hospitals,2021,300-499,Nonprofit,Urban,Non-Teaching,62703,30.0,37.334597,-121.995774,No,No,2090.1,6,37.3362374,-121.998538
+106444013,Watsonville Community Hospital,Santa Cruz,No System,2021,100-149,Nonprofit,Urban,Non-Teaching,24835,16.0,36.92839,-121.79173,Yes,No,1552.1875,3,36.927119,-121.7925372
+106450936,Mayers Memorial Hospital,Shasta,No System,2021,100-149,Government,Frontier,Non-Teaching,3884,6.0,41.02423,-121.42442,Yes,Yes,647.3333333333334,3,41.0236764,-121.4240081
+106450940,Shasta Regional Medical Center,Shasta,Prime Healthcare Services,2021,200-299,Investor Owned,Urban,Non-Teaching,26616,30.0,40.58562,-122.387731,No,Yes,887.2,5,40.5855541,-122.3877573
+106450949,Mercy Medical Center – Redding,Shasta,Dignity Health,2021,200-299,Nonprofit,Urban,Non-Teaching,38995,26.0,40.57204,-122.39742,No,Yes,1499.8076923076924,5,40.5719533,-122.3952328
+106470871,Mercy Medical Center Mt. Shasta,Siskiyou,Dignity Health,2021,1-49,Nonprofit,Rural,Non-Teaching,9046,11.0,41.31894,-122.32309,Yes,Yes,822.3636363636364,1,41.3187005,-122.3209208
+106480989,Kaiser Foundation Hospital & Rehab Center – Vallejo,Solano,Kaiser Foundation Hospitals,2021,200-299,Nonprofit,Urban,Non-Teaching,53051,51.0,38.12839,-122.24761,No,No,1040.2156862745098,5,38.1259988,-122.2472204
+106481094,Sutter Solano Medical Center,Solano,Sutter Health,2021,100-149,Nonprofit,Urban,Non-Teaching,22161,13.0,38.13109,-122.23852,No,No,1704.6923076923076,3,38.1312888,-122.2373373
+106481357,NorthBay Medical Center,Solano,No System,2021,150-199,Nonprofit,Urban,Non-Teaching,52645,45.0,38.26097,-122.05076,No,No,1169.888888888889,4,38.2620091,-122.0473434
+106484044,Kaiser Foundation Hospital – Vacaville,Solano,Kaiser Foundation Hospitals,2021,100-149,Nonprofit,Urban,Non-Teaching,45207,27.0,38.3894968,-121.9373177,No,No,1674.3333333333333,3,38.3884817,-121.9392573
+106491076,Sonoma Valley Hospital,Sonoma,No System,2021,50-99,Government,Urban,Non-Teaching,7628,9.0,38.28841,-122.46524,Yes,No,847.5555555555555,2,38.2881503,-122.4656876
+106494019,Kaiser Foundation Hospital – Santa Rosa,Sonoma,Kaiser Foundation Hospitals,2021,150-199,Nonprofit,Urban,Teaching,50419,30.0,38.47087,-122.73119,No,Yes,1680.6333333333334,4,38.4720582,-122.7285573
+106500852,Doctors Medical Center,Stanislaus,Tenet Healthcare Corporation,2021,300-499,Investor Owned,Urban,Non-Teaching,73378,33.0,37.66439,-120.99631,No,No,2223.5757575757575,6,37.66575,-120.9973109
+106500867,Emanuel Medical Center,Stanislaus,Tenet Healthcare Corporation,2021,200-299,Investor Owned,Urban,Non-Teaching,46426,32.0,37.51052,-120.83966,No,No,1450.8125,5,37.5115162,-120.8378339
+106500939,Memorial Medical Center – Modesto,Stanislaus,Sutter Health,2021,300-499,Nonprofit,Urban,Non-Teaching,67619,44.0,37.66868,-120.973381,No,No,1536.7954545454545,6,37.6686472,-120.9746362
+106500967,Oak Valley Hospital District,Stanislaus,No System,2021,1-49,Government,Rural,Non-Teaching,16920,12.0,37.75782,-120.86031,Yes,No,1410.0,1,37.7568551,-120.8612483
+106521041,St. Elizabeth Community Hospital,Tehama,Dignity Health,2021,50-99,Nonprofit,Rural,Non-Teaching,26508,14.0,40.1495,-122.21887,Yes,Yes,1893.4285714285713,2,40.1484537,-122.2196519
+106540734,Kaweah Health Medical Center,Tulare,No System,2021,300-499,Government,Urban,Non-Teaching,55269,85.0,36.32753,-119.29345,Yes,Yes,650.2235294117647,6,36.328572,-119.2949582
+106540816,Adventist Health Tulare,Tulare,Adventist Health Systems,2021,100-149,Nonprofit,Rural,Non-Teaching,25670,15.0,36.2210166,-119.3385341,Yes,Yes,1711.3333333333333,3,36.2211168,-119.3385333
+106554011,Adventist Health Sonora – Greenley,Tuolumne,Adventist Health Systems,2021,50-99,Nonprofit,Rural,Non-Teaching,29579,18.0,37.97568,-120.369,Yes,Yes,1643.2777777777778,2,37.9773582,-120.3711158
+106560481,Ventura County Medical Center,Ventura,No System,2021,200-299,Government,Urban,Non-Teaching,36462,42.0,34.27693,-119.25384,No,No,868.1428571428571,5,34.2773769,-119.2532347
+106560492,Los Robles Hospital & Medical Center,Ventura,HCA Healthcare Corporation,2021,300-499,Investor Owned,Urban,Non-Teaching,35561,23.0,34.20762,-118.882411,No,No,1546.1304347826087,6,34.2067796,-118.8830898
+106560501,Ojai Valley Community Hospital,Ventura,No System,2021,1-49,Nonprofit,Rural,Non-Teaching,7149,6.0,34.44221,-119.26311,No,No,1191.5,1,34.4428996,-119.2643205
+106560508,St. John's Hospital Camarillo,Ventura,Dignity Health,2021,100-149,Nonprofit,Urban,Non-Teaching,19627,14.0,34.24177,-119.018,No,No,1401.9285714285713,3,34.2443679,-119.0195219
+106560525,Adventist Health Simi Valley,Ventura,Adventist Health Systems,2021,100-149,Nonprofit,Urban,Non-Teaching,29223,18.0,34.28973,-118.74394,No,No,1623.5,3,34.2891994,-118.7449442
+106560529,St. John's Regional Medical Center,Ventura,Dignity Health,2021,200-299,Nonprofit,Urban,Non-Teaching,39699,31.0,34.21687,-119.15819,No,Yes,1280.6129032258063,5,34.2163022,-119.1558102
+106571086,Woodland Memorial Hospital,Yolo,Dignity Health,2021,100-149,Nonprofit,Urban,Non-Teaching,22210,17.0,38.66284,-121.7933,No,Yes,1306.4705882352941,3,38.6640259,-121.792082
+106574010,Sutter Davis Hospital,Yolo,Sutter Health,2021,1-49,Nonprofit,Urban,Non-Teaching,24455,11.0,38.56289,-121.77164,No,Yes,2223.181818181818,1,38.5626885,-121.7706836
+106580996,Adventist Health and Rideout,Yuba,Adventist Health Systems,2021,200-299,Nonprofit,Rural,Non-Teaching,55341,44.0,39.138805,-121.593602,Yes,Yes,1257.75,5,39.1381501,-121.5942332
